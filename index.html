@@ -67,7 +67,7 @@ change = function(base) {
 
 var col = [];
 
-  d3.csv(base, function(data) {
+  d3.csv("bases/" + base, function(data) {
     var colnames = d3.keys(data[0]);
     for (var i = 0, len = colnames.length; i<len; i++){
         col[i] = [];
