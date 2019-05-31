@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<!--
+Sources :
+https://www.alsacreations.com/tuto/lire/1234-creer-volet-coulissant-CSS3-target-transition.html
+https://stackoverflow.com/questions/35759446/using-arrays-to-change-color-of-certain-words-in-an-input-box#35759618
+http://jsfiddle.net/4eQUm/29/
+-->
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Kanji par année</title>
+  <link rel="icon" type="image/x-icon" href="https://cdn.glitch.com/5afb9eb8-2a52-461a-ac40-eb9a75f2caee%2Ffavicon.ico?1554240145185" />
+</head>
+<body>
+
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+<textarea id="myTextField" placeholder="Insérer le texte ici ..." rows="20" cols="80">月 楽 化 改 河 簡 違 犬 活 荷 械 過 危 維 見 間 界 害 賀 机 慰 五 丸 開 街 快 揮 緯 口 岩 階 各 解 貴 壱 校 顔 寒 覚 格 疑 逸 左 汽 感 完 確 吸 茨 三 記 漢 官 額 供 芋 山 帰 館 管 刊 胸 咽 子 弓 岸 関 幹 郷 姻 四 牛 起 観 慣 勤 淫 糸 魚 期 願 眼 筋 陰 字 京 客 希 基 系 隠</textarea>
+<br/><button class="button" id="byBtn" style="vertical-align:middle" onclick="change()"><span>Analyser </span></button>
+
+<div id="volet_clos">
+    <div id="volet">
+      <p><h6>Ins&eacute;rer le texte &agrave; analyser dans la zone de texte et cliquer sur le bouton 'Analyser'. Survoler les ent&ecirc;tes du tableau pour mettre en surbrillance les kanas correspondants.</h6></p>
+        <p><a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/deed.fr"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
+        <h6>Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/deed.fr">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a></h6></p>
+
+        <a href="#volet" class="ouvrir" aria-hidden="true"></a>
+        <a href="#volet_clos" class="fermer" aria-hidden="true"></a>
+    </div>
+</div>
+
+<p id="analyse"></p>
+</body>
+</html>
+
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript">
+
+function onlyUnique(value, index, self) { 
+    return self.indexOf(value) === index;
+}
+
+function intersect(a, b) {
+    var t;
+    if (b.length > a.length) t = b, b = a, a = t; // indexOf to loop over shorter
+    return a.filter(function (e) {
+        return b.indexOf(e) > -1;
+    });
+}
+
+function trim(a) {
+  var index = a.indexOf(' ');
+  if (index > -1) {
+    a.splice(index, 1);
+  }
+  return a;
+}
+
+function classToggle (evt, find, toggle) {
+    [].forEach.call(document.querySelectorAll('.' + find), function(a){
+        a.classList[evt.type === 'mouseover' ? 'add' : 'remove'](toggle);
+    });
+}
+
+change = function() {
+
+var col = [];
+
+  d3.csv("base.txt", function(data) {
+    var colnames = d3.keys(data[0]);
+    for (var i = 0, len = colnames.length; i<len; i++){
+        col[i] = [];
+    }
+    data.map(function(d) {
+        for (var i = 0, len = colnames.length; i<len; i++){
+            col[i].push(d[colnames[i]]);
+            }
+    })
+
+  // get the current value of the "myTextField" element
+  var myTextFieldValue = document.getElementById('myTextField').value;
+
+  // split this string at every space character - we now have
+  // an array of individual words
+  var myTextFieldWords = myTextFieldValue.split('');
+
+  // for each of these words, test if the "matches" array contains
+  // the word.  If it does, surround it with a <span class="match"> tag.
+  var nonclasses=[];
+  var formattedWords = myTextFieldWords.map(function(word) {
+  var test = false;
+  for (var i = 0, len = colnames.length; i<len; i++){
+        if (col[i].indexOf(word) !== -1 && test == false) {
+          test = true;
+          return '<span class="col' + i + '">' + word + '</span>';
+        }
+    }
+    if (test == false) {
+        nonclasses.push(word);
+        return word;
+    }
+  });
+
+  // formattedWords now looks like this:
+  // ['<span>his</span>', 'first' 'entering', 'a' .... ]
+  
+  // join all the items in the formattedWords array (with a 
+  // space between each word) into a single string, and set
+  // it as the innerHTML of the #analyse element
+  for (var i = 0, len = colnames.length; i<len; i++){
+      col[i] = col[i].filter(onlyUnique)
+  }
+  myTextFieldWords = trim(myTextFieldWords.filter(onlyUnique))
+  nonclasses = trim(nonclasses.filter(onlyUnique))
+  
+  var txthtml = ''
+  for (var i = 0, len = colnames.length; i<len; i++){
+      txthtml = txthtml + '<div><span class="col' + i + '">' + colnames[i] + '&nbsp;</span> : ' + intersect(col[i], myTextFieldWords).length + '</div>'
+  }
+  
+  document.getElementById('analyse').innerHTML = '<div id="entete">' +
+  txthtml + '</div>' +
+  '<div id="entete"><div><i><u> non classé(s)</u></i> : ' + nonclasses.sort() + '</div></div>' +
+  '<div id="table-scroll"><table><tbody><tr><td>' + formattedWords.join('').replace(/\n/g, "<br/>") +
+  '<br/>&nbsp;</td></tr></tbody></table></div>';
+  
+  var ca = [];
+  for (var i = 0, len = colnames.length; i<len; i++){
+    ca[i] = document.querySelector('.col' + i);
+  }
+
+  function classlight(evt) {
+    for (var i = 0, len = colnames.length; i<len; i++){
+      if ('col' + i == evt.target.className.substr(0, 4)) {
+        classToggle(evt, 'col' + i, 'highlight');
+      } else {
+        classToggle(evt, 'col' + i, 'fade');
+      }
+    }
+  }
+
+  for (var i = 0, len = colnames.length; i<len; i++){
+    ca[i].addEventListener('mouseover', function(e) {classlight(e)})
+    ca[i].addEventListener('mouseout', function(e) {classlight(e)})
+  }
+  });
+}
+</script>

@@ -1,0 +1,213 @@
+/* http://colrd.com/image-dna/23521/
+   http://colrd.com/image-dna/24445/ */
+
+.col0 {
+  display: inline-flex;
+  padding:1px;
+  background-color: #faa818;
+  /*color : #ffffff;*/
+}
+
+.col1 {
+  display: inline-flex;
+  padding:1px;
+  background-color: #41a30d;
+  /*color : #ffffff;*/
+}
+
+.col2 {
+  display: inline-flex;
+  padding:1px;
+  background-color: #ffce38;
+  /*color : #ffffff;*/
+}
+
+.col3 {
+  display: inline-flex;
+  padding:1px;
+  background-color: #367d7d;
+  /*color : #ffffff;*/
+}
+
+.col4 {
+  display: inline-flex;
+  padding:1px;
+  background-color: #d33502;
+  /*color : #ffffff;*/
+}
+
+.col5 {
+  display: inline-flex;
+  padding:1px;
+  background-color: #6ebcbc;
+  /*color : #ffffff;*/
+}
+
+.col6 {
+  display: inline-flex;
+  padding:1px;
+  background-color: #37526d;
+  color : #ffffff;
+}
+
+.col7 {
+  display: inline-flex;
+  padding:1px;
+  background-color: #c83288;
+  /*color : #ffffff;*/
+}
+
+.col8 {
+  display: inline-flex;
+  padding:1px;
+  background-color: #de406e;
+  /*color : #ffffff;*/
+}
+
+.col9 {
+  display: inline-flex;
+  padding:1px;
+  background-color: #a6e8a1;
+  /*color : #ffffff;*/
+}
+
+.highlight {
+  border: 1px solid #ffffff;
+  border-radius: 5px 5px;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 2px;
+  background-color: #000000;
+  box-shadow: 2px 2px 1px grey;
+}
+
+.fade {
+  opacity: 0.3;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 18px;
+  padding: 10px;
+  width: 120px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+#entete {
+  display: table;
+  width: auto;
+  table-layout: fixed;
+  margin-bottom: 5px;
+}
+
+#entete div {
+  display: table-cell;
+  border: 1px solid #000000;
+  padding: 4px 6px;
+  width: 2%;
+}
+
+#table-scroll {
+  height:300px;
+  border: 1px solid #000000;
+  padding: 5px 5px;
+  overflow:auto;
+  width:100%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+#volet {
+  width: 250px;
+  padding: 5px;
+  background: #c50c1a;
+  color: #fff;
+}
+
+#volet a.ouvrir,
+#volet a.fermer {
+  padding: 5px 5px;
+  background: #555;
+  color: #fff;
+  text-decoration: none;
+}
+
+#volet {
+  position: absolute;
+  top: -265px;
+  left: 230px;
+  -webkit-transition: all .5s ease-in;
+  -moz-transition: all .5s ease-in;
+  transition: all .5s ease-in;
+}
+
+#volet a.ouvrir,
+#volet a.fermer {
+  height: 7px;
+  padding: 15px 30px 0 20px;
+  border-radius: 0 0 5px 5px;
+  background: #c50c1a url(https://cdn.glitch.com/5afb9eb8-2a52-461a-ac40-eb9a75f2caee%2Fbg-bouton-unistra.png?1554240156101) no-repeat right top;
+  position: absolute;
+  right: 0px;
+  top: 264px;
+}
+
+#volet a.fermer {
+  display: none;
+  background-position: right bottom;
+}
+
+#volet:target {
+  left: 230px;
+  top: 0px;
+}
+
+#volet:target a.fermer {
+  display: block;
+}
+
+#volet:target a.ouvrir {
+  display: none;
+}
+
+#volet_clos:target #volet {
+  left: 230px;
+}
+
+#volet_clos {
+  position: fixed;
+  left: 230px;
+  top: 0px;
+}
