@@ -15,8 +15,9 @@ http://jsfiddle.net/4eQUm/29/
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-<textarea id="myTextField" placeholder="Insérer le texte ici ..." rows="20" cols="80">月 楽 化 改 河 簡 違 犬 活 荷 械 過 危 維 見 間 界 害 賀 机 慰 五 丸 開 街 快 揮 緯 口 岩 階 各 解 貴 壱 校 顔 寒 覚 格 疑 逸 左 汽 感 完 確 吸 茨 三 記 漢 官 額 供 芋 山 帰 館 管 刊 胸 咽 子 弓 岸 関 幹 郷 姻 四 牛 起 観 慣 勤 淫 糸 魚 期 願 眼 筋 陰 字 京 客 希 基 系 隠</textarea>
-<br/><button class="button" id="byBtn" style="vertical-align:middle" onclick="change()"><span>Analyser </span></button>
+Base à utiliser : <input type="text" name="base" id="base" value="base.txt">
+<br/><textarea id="myTextField" placeholder="Insérer le texte ici ..." rows="20" cols="80">月 楽 化 改 河 簡 違 犬 活 荷 械 過 危 維 見 間 界 害 賀 机 慰 五 丸 開 街 快 揮 緯 口 岩 階 各 解 貴 壱 校 顔 寒 覚 格 疑 逸 左 汽 感 完 確 吸 茨 三 記 漢 官 額 供 芋 山 帰 館 管 刊 胸 咽 子 弓 岸 関 幹 郷 姻 四 牛 起 観 慣 勤 淫 糸 魚 期 願 眼 筋 陰 字 京 客 希 基 系 隠</textarea>
+<br/><button class="button" id="byBtn" style="vertical-align:middle" onclick="change(document.getElementById('base').value)"><span>Analyser </span></button>
 
 <div id="volet_clos">
     <div id="volet">
@@ -62,11 +63,11 @@ function classToggle (evt, find, toggle) {
     });
 }
 
-change = function() {
+change = function(base) {
 
 var col = [];
 
-  d3.csv("base.txt", function(data) {
+  d3.csv(base, function(data) {
     var colnames = d3.keys(data[0]);
     for (var i = 0, len = colnames.length; i<len; i++){
         col[i] = [];
