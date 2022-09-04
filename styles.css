@@ -125,6 +125,14 @@
   right: 0;
 }
 
+.rmargin {
+  margin-right: 20px;
+}
+
+.jkgo {
+  text-decoration: double underline red;
+}
+
 #entete {
   display: table;
   width: auto;
@@ -137,6 +145,7 @@
   border: 1px solid #000000;
   padding: 4px 6px;
   width: 2%;
+  margin-bottom: 0;
 }
 
 #table-scroll {
@@ -144,16 +153,15 @@
   border: 1px solid #000000;
   padding: 5px 5px;
   overflow:auto;
-  width:100%;
+  width:99%;
   word-wrap: break-word;
   overflow-wrap: break-word;
 }
 
 #volet {
   width: 250px;
-  padding: 5px;
-  background: #c50c1a;
-  color: #fff;
+  padding: 10px;
+  background: #c50c1a; color: #fff;
 }
 
 #volet a.ouvrir,
@@ -181,7 +189,8 @@
   background: #c50c1a url(bg-bouton-unistra.png) no-repeat right top;
   position: absolute;
   right: 0px;
-  top: 264px;
+  top: 254px;
+  border-radius: 0 0 8px 8px;
 }
 
 #volet a.fermer {

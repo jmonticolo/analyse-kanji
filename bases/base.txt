@@ -1,216 +1,1284 @@
-S1,S2,Vacances d'été,S3,S4,S5,S6
-一,自,然,招,翌,共,惑
-二,転,森,券,築,処,鉛
-三,服,林,美,構,余,頑
-四,族,竹,術,造,像,携
-五,父,石,博,設,管,継
-六,母,岩,散,柱,囲,源
-七,兄,畑,約,庫,寄,傷
-八,弟,池,束,畳,坊,睡
-九,姉,星,忘,隅,凍,腸
-十,妹,光,相,蔵,誤,塗
-人,両,雲,僕,橋,曇,漠
-日,親,島,君,渡,張,障
-曜,番,鳥,武,差,旧,憎
-月,宿,虫,良,警,喫,態
-私,題,羽,彼,察,替,滴
-何,遊,匹,菓,署,恵,銅
-今,留,植,放,防,賢,領
-円,末,草,課,符,勇,鋭
-火,専,糸,割,札,複,儀
-水,門,原,倒,改,封,権
-木,旅,桜,壊,算,筒,膚
-金,質,咲,消,精,許,避
-土,問,鳴,流,停,限,厳
-口,切,品,器,換,灯,縮
-目,少,米,面,禁,尊,敵
-見,々,豆,堂,煙,詞,織
-耳,材,麦,確,預,副,礎
-大,杯,粉,認,常,志,己
-小,早,油,簡,非,司,援
-学,遅,乳,単,清,幅,企
-生,始,卵,難,掃,拡,貴
-寺,終,塩,速,綿,傾,紀
-時,柔,砂,嫌,募,件,激
-校,固,糖,細,求,条,功
-言,温,飯,低,承,仮,購
-川,建,体,若,玉,著,盛
-山,辺,足,深,個,版,占
-田,止,歯,浅,缶,判,創
-本,甘,鼻,太,詰,批,趣
-分,牛,指,越,沸,操,乏
-半,由,腕,壁,軟,腰,派
-前,活,肩,床,等,吸,距
-後,慣,髪,賃,巻,胸,併
-午,忙,腹,決,混,栄,双
-先,暇,息,選,過,胃,興
-朝,心,死,調,伸,抜,挙
-昼,思,夫,連,破,磨,憲
-晩,組,主,絡,助,汗,護
-間,発,妻,形,燃,看,災
-休,表,奥,予,編,帯,需
-行,便,祖,拾,示,湿,渉
-来,利,娘,捨,保,蒸,亜
-帰,不,門,域,印,吹,仰
-食,集,窓,役,刷,燥,飽
-飲,合,戸,郵,除,豊,握
-読,痛,机,局,販,埋,鮮
-書,頭,棚,身,支,湾,焦
-聞,葉,傘,包,払,浮,扱
-音,当,財,位,額,積,跡
-楽,道,布,置,超,沈,穴
-手,熱,帽,届,収,泥,泡
-紙,貝,弁,更,費,群,井
-新,閉,雑,製,税,根,緯
-起,開,誌,向,型,針,維
-寝,変,辞,危,状,枝,遺
-勉,晴,帳,険,舞,香,致
-強,疲,,暮,令,耕,至
-仕,室,,震,昭,皮,挑
-事,南,,在,御,含,稲
-会,西,,特,返,照,促
-社,北,,準,頂,周,梅
-夜,野,,備,拝,極,描
-犬,同,,説,殿,裏,益
-猫,州,,接,氏,億,沿
-教,多,,配,末,兆,皇
-科,背,,答,整,逃,沖
-文,歳,,願,現,異,叔
-化,都,,授,貨,溶,伯
-英,市,,業,硬,恐,雄
-語,首,,想,犯,圧,陥
-計,台,,直,駐,怖,華
-誰,軽,,経,断,波,我
-部,泳,,営,盗,零,悔
-屋,湖,,済,触,亡,怪
-明,初,,歴,挟,展,涯
-暗,待,,史,責,捕,鏡
-静,医,,育,担,宝,核
-広,師,,政,血,棒,飾
-狭,落,,法,液,輪,嫁
-古,打,,王,帯,爆,兼
-高,冷,,感,故,因,雷
-安,内,,謝,療,捜,勧
-長,悪,,荷,救,識,緩
-短,骨,,紹,命,居,眼
-元,治,,介,戦,疑,既
-気,運,,港,録,罪,宜
-赤,動,,結,賞,叫,聴
-青,立,,婚,秒,況,絹
-黒,受,,式,測,殺,宮
-白,付,,独,順,追,驚
-黄,次,,誕,投,灰,筋
-色,薬,,才,技,暴,句
-車,浴,,満,柔,退,臭
-花,要,,別,恋,勢,懸
-絵,給,,快,愛,延,継
-馬,以,,適,寂,争,刑
-駅,力,,実,悲,敗,謙
-皿,働,,提,嬉,委,倹
-箱,覚,,健,喜,訪,拠
-男,欠,,康,悩,競,項
-女,席,,注,怒,依,雌
-子,容,,困,欲,略,盟
-供,知,,濯,涙,与,喪
-上,失,,干,恥,炭,黙
-下,礼,,守,貯,鉱,誠
-中,平,,情,列,標,浜
-隣,回,,報,酔,漁,滅
-左,習,,探,永,複,翻
-右,雪,,観,幸,制,盆
-地,量,,希,福,純,墓
-外,冊,,望,協,層,旗
-店,弾,,告,将,訓,載
-員,飼,,詳,贈,善,俳
-買,関,,丸,老,般,励
-売,残,,敬,婦,完,懐
-物,念,,召,姓,貿,縄
-果,用,,存,齢,貧,哲
-公,枚,,案,仲,雇,訂
-園,送,,伺,他,軒,帝
-国,込,,参,再,害,丁
-友,歌,,議,突,被,露
-達,近,,務,各,損,縦
-皆,遠,,戻,緒,乱,禅
-階,全,,任,級,応,滞
-料,迎,,宅,講,律,姿
-理,誘,,府,義,賛,詩
-映,客,,県,解,軍,策
-画,様,,村,得,兵,施
-館,弱,,町,努,郊,祉
-好,研,,区,復,党,従
-作,究,,号,補,毒,騒
-酒,袋,,里,効,互,充
-紅,場,,角,幼,刊,紫
-茶,曲,,祭,児,却,舌
-和,側,,定,童,択,樹
-洋,汚,,有,徒,炎,宗
-百,試,,神,板,往,渋
-千,験,,焼,規,祉,網
-万,進,,氷,則,昇,淡
-春,信,,踊,期,典,慌
-夏,迷,,衣,導,房,怪
-秋,菜,,緑,筆,肪,威
-冬,続,,刻,点,免,偽
-住,辛,,違,易,為,秀
-所,通,,反,倍,架,哀
-名,必,,対,率,枯,惜
-家,練,,途,均,荒,票
-週,世,,申,成,削,拒
-年,玄,,訳,績,染,斜
-去,伝,,踏,評,恩,還
-昨,無,,呼,価,剤,患
-夕,湯,,叱,移,脂,劣
-方,洗,,泣,団,修,赴
-病,片,,刺,程,症,緊
-院,顔,,笑,欧,振,穏
-貸,代,,工,船,粋,罰
-借,払,,係,舟,素,潔
-毎,苦,,輸,加,畜,丘
-海,意,,産,装,納,輝
-暑,味,,機,靴,掛,汽
-寒,泊,,械,芸,郷,傑
-天,風,,薄,劇,掘,飢
-雨,呂,,厚,演,掲,貫
-電,脱,,例,孫,渓,範
-話,庭,,資,抱,蛍,孤
-記,涼,,検,似,採,犠
-者,暖,,査,珍,逮,牲
-度,重,,種,仏,粒,獲
-東,空,,類,祈,偉,訴
-京,眠,,頼,球,賀,訟
-肉,具,,普,陽,裁,庶
-魚,増,,及,宇,粧,娯
-漢,革,,路,宙,証,鈴
-字,毛,,就,巨,診,肺
-持,引,,職,河,酢,堅
-声,押,,卒,候,絶,魂
-使,折,,際,底,隊,攻
-取,界,,交,岸,塔,撃
-央,数,,躍,坂,統,腐
-泉,景,,勝,環,鈍,滑
-線,最,,負,境,,
-写,正,,談,論,,
-真,並,,陸,諸,,
-入,値,,勤,肯,,
-出,段,,夢,否,,
-乗,的,,可,基,,
-降,減,,能,比,,
-着,街,,祝,較,,
-歩,昔,,格,逆,,
-急,優,,乾,章,,
-座,,,久,述,,
-銀,,,歓,官,,
-鉄,,,撮,庁,,
-図,,,影,省,,
-性,,,季,農,,
-横,,,節,商,,
-,,,城,労,,
-,,,登,閣,,
-,,,走,総,,
-,,,富,臣,,
-,,,士,象,,
-,,,飛,融,,
-,,,幹,民,,
-,,,韓,,,
-,,,第,,,
+﻿kanji;niveau;traits;JLPT;radical;on;on translation;kun;kun_translation
+一;S1;1;5;Ichi;ichi, itsu;one, a;hito, hito(tsu);one, a unit
+二;S1;2;5;Ni;ni;two, second;futa, futa(tsu);two
+三;S1;3;5;Ichi;san;three;mi, mi(tsu), mit(tsu);three
+四;S1;5;5;Kunigamae;shi;four;yo, yo(tsu), yot(tsu), yon;four
+五;S1;4;5;Ni;go;five;itsu, itsu(tsu);five
+六;S1;4;5;Hachi;roku;six;mu, mu(tsu), mut(tsu), [mui];six
+七;S1;2;5;Ichi;shichi;seven;nana, nana(tsu), [nano];seven
+八;S1;2;5;Hachi;hachi;eight;ya, ya(tsu), yat(tsu), [yoo];eight
+九;S1;2;5;Otsu, Otsunyoo;kyuu, ku;nine;kokono, kokono(tsu);nine
+十;S1;2;5;Juu;juu, jiQ;ten;too, to;ten
+人;S1;2;5;Hito, Ninben, Hitoyane;jin, nin;man, person, people;hito;man, human being, mankind, person, people
+日;S1;4;5;Nichi, Nichihen;nichi, jitsu;day;hi, ka;sun
+曜;S1;18;4;Nichi, Nichihen;yoo;day of the week;-;-
+月;S1;4;5;Tsuki, Tsukihen;getsu, gatsu;moon;tsuki;moon
+私;S1;7;4;Nogi, Nogihen;shi;I;watakushi, watashi;I, myself, private (affairs)
+何;S1;7;5;Hito, Ninben, Hitoyane;ka;what;nani, [nan];what
+今;S1;4;5;Hito, Ninben, Hitoyane;kon, kin;now, the present;ima;now, present time
+円;S1;4;5;Doogamae;en;circle;maru(i);round, circular, spherical
+火;S1;4;5;Hi, Hihen, Renga;ka;fire, Tuesday;hi, [ho];fire, flame, blaze
+水;S1;4;5;Mizu, Sanzui, Shitamizu;sui;water;mizu;water
+木;S1;4;5;Ki, Kihen;boku, moku;tree, Thursday;ki, [ko];tree
+金;S1;8;5;Kane, Kanehen;kin, kon;gold;kane, [kana];money, metal
+土;S1;3;5;Tsuchi, Tsuchihen;do, to;earth, ground;tsuchi;earth, soil, ground
+口;S1;3;4;Kuchi, Kuchihen;koo, ku;mouth;kuchi;mouth, lips
+目;S1;5;4;Me, Mehen;moku, [boku];item, division, class;me, [ma];eye
+見;S1;7;5;Miru;ken;hopes, chances;mi(ru), mi(eru), mi(seru);see, look at, witness, observe
+耳;S1;6;3;Mimi, Mimihen;ji;ear;mimi;ear
+大;S1;3;5;Dai;dai, tai;large, huge, grand;oo, oo(kii), oo(ini);large, great, grand, mighty, immense
+小;S1;3;5;Shoo;shoo;smallness;chii(sai), ko, o;small, little, diminutive, minute, fine, trivial. short
+学;S1;8;5;Ko, Kohen;gaku;learning, study, science, scholarship, erudition;mana(bu);learn, study
+生;S1;5;5;Umareru;sei, shoo;birth;i(kiru), i(kasu), i(keru), u(mareru), u(mu), o(u), ha(eru), ha(yasu), ki, nama;grow, spring up
+寺;S1;6;2;Sun;ji;temple;tera;temple
+時;S1;10;5;Nichi, Nichihen;ji;hour, o'clock, time;toki;time, hour, moment, occasion
+校;S1;10;5;Ki, Kihen;koo;school;-;-
+言;S1;7;4;Gon, Gonben;gen, gon;word;i(u), koto;say, tell, talk, speak, declare
+川;S1;3;5;Magarigawa;sen;river, stream, brook;kawa;river, stream, brook
+山;S1;3;5;Yama, Yamahen;san;mount, mountain;yama;mountain, hill, height, knoll
+田;S1;5;4;Ta, Tahen;den;rice field, paddy field;ta;rice field, paddy field
+本;S1;5;5;Ki, Kihen;hon;book;moto;beginning, origin
+分;S1;4;5;Katana, Rittoo;bun, fun, bu;dividing;wa(keru), wa(kareru), wa(karu), wa(katsu);understand, comprehend
+半;S1;5;5;Juu;han;half;naka(ba);half, semi-, middle, halfway
+前;S1;9;5;Katana, Rittoo;zen;before;mae;front, fore part
+後;S1;9;5;Gyooninben;go, koo;back, rear, behind;nochi, ushi(ro), ato, oku(reru);after, since then
+午;S1;4;5;Juu;go;11 a.m.-1 p.m.;-;-
+先;S1;6;5;Hitoashi;sen;the future;saki;point, tip, end
+朝;S1;12;4;Tsuki, Tsukihen;choo;dynasty;asa;morning, forenoon
+昼;S1;9;4;Nichi, Nichihen;chuu;daytime, midday;hiru;daytime, midday, noon
+晩;S1;12;3;Nichi, Nichihen;ban;evening, night;-;-
+間;S1;12;5;Mongamae;kan, ken;interval;aida, ma;space, interval, gap
+休;S1;6;5;Hito, Ninben, Hitoyane;kyuu;rest;yasu(mu), yasu(maru), yasu(meru);rest
+行;S1;6;5;Gyoogamae;koo, gyoo, [an];party, suite;i(ku), yu(ku), okona(u);go
+来;S1;7;5;Ki, Kihen;rai;come. since (last month);ku(ru), kita(ru), kita(su);come, arrive
+帰;S1;10;4;Haba, Kinben;ki;return;kae(ru), kae(su);return
+食;S1;9;5;Shoku, Shokuhen;shoku, [jiki];food, provisions;ku(u), ku(rau), ta(beru);eat
+飲;S1;12;4;Shoku, Shokuhen;in;drinking;no(mu);drink, taste, take
+読;S1;14;5;Gon, Gonben;doku, toku, [too];reading;yo(mu);read, peruse
+書;S1;10;5;Hirabi;sho;handwriting;ka(ku);write, compose
+聞;S1;14;5;Mimi, Mimihen;bun, mon;hear, listen to;ki(ku), ki(koeru);hear, listen to
+音;S1;9;4;Oto;on, in;sound;oto, ne;sound, noise, roar
+楽;S1;13;4;Ki, Kihen;gaku, raku;music;tano(shii), tano(shimu);enjoy
+手;S1;4;4;Te;shu;hand, arm;te, [ta];hand, arm
+紙;S1;10;4;Ito, Itohen;shi;paper;kami;paper
+新;S1;13;4;Kin, Onozukuri;shin;newness, novelty. new, modern, novel, fresh, neo-;atara(shii), ara(ta), nii;new, novel, fresh, recent, modern
+起;S1;10;4;Hashiru, Soonyoo;ki;get up, rise, awake;o(kiru), o(koru), o(kosu);get up, rise, awake
+寝;S1;13;3;Ukanmuri;shin;sleeping;ne(ru), ne(kasu);sleep
+勉;S1;10;4;Chikara;ben;serve, fill a post, serve under;-;-
+強;S1;11;4;Yumi, Yumihen;kyoo, goo;strength, might;tsuyo(i), tsuyo(maru), tsuyo(meru), shi(iru);strong, powerful, mighty, robust, vigorous, healthy
+仕;S1;5;4;Hito, Ninben, Hitoyane;shi, [ji];official;tsuka(eru);serve, work for
+事;S1;8;4;Haneboo;ji, [zu];thing, matter;koto;thing, matter, fact, circumstances, business, reason, experience
+会;S1;6;4;Hito, Ninben, Hitoyane;kai, e;Buddhist ceremony;a(u);meet, interview
+社;S1;7;4;Shimesu, Shimesuhen;sha;Shinto shrine;yashiro;Shinto shrine
+夜;S1;8;4;Yuube;ya;night;yo, yoru;evening, night, nighttime
+犬;S1;4;4;Inu, Kemonohen;ken;dog;inu;dog, spy
+猫;S1;11;3;Inu, Kemonohen;byoo;cat;neko;cat
+教;S1;11;4;Nobun;kyoo;faith;oshi(eru), oso(waru);teach, give lessons
+科;S1;9;3;Nogi, Nogihen;ka;course, branch, department, faculty, school, college;-;-
+文;S1;4;4;Bun;bun, mon;1/100 of a hyakume;fumi;letter, note
+化;S1;4;3;Hi;ka, ke;influence;ba(keru), ba(kasu); bewitch, enchant, confuse, delude
+英;S1;8;4;Kusakanmuri;ei;England, Britain;-;-
+語;S1;14;5;Gon, Gonben;go;word, speech, language, term;kata(ru), kata(rau);talk, tell, narrate, recite. chat
+計;S1;9;4;Gon, Gonben;kei;plan, scheme, trick;haka(ru), haka(rau);measure, gauge, weigh
+誰;S1;15;0;Gon, Gonben;-;-;dare;who
+部;S1;11;3;Oozato;bu;department, bureau, section;-;-
+屋;S1;9;4;Shikabane;oku;house, roof;ya;shop, store
+明;S1;8;4;Nichi, Nichihen;mei, myoo;clearness, shining;a(kari), aka(rui), aka(rumu), aka(ramu), aki(raka), a(keru), a(ku), a(kuru), a(kasu);open
+暗;S1;13;3;Nichi, Nichihen;an;dark;kura(i);dark, gloomy, somber
+静;S1;14;3;Ao, Aohen;sei, [joo];quiet, peace, inactivity;shizu, shizu(ka), shizu(maru), shizu(meru);get quiet, calm down, grow still
+広;S1;5;4;Madare;koo;spread out, extend, reach to;hiro(i), hiro(maru), hiro(meru), hiro(garu), hiro(geru);spread out, extend, reach to. expand, enlarge, widen
+狭;S1;9;1;Inu, Kemonohen;kyoo;narrow, contract, reduce;sema(i), saba(meru), seba(maru);narrow, contract, reduce
+古;S1;5;4;Kuchi, Kuchihen;ko;old;furu(i), furu(su);old, aged, ancient, antiquated
+高;S1;10;5;Takai;koo;high;taka(i), taka, taka(maru), taka(meru);high, tall, lofty, raised, elevated, eminent
+安;S1;6;4;Ukanmuri;an;be rested, feel at ease, be relieved, repose;yasu(i);cheap, inexpensive
+長;S1;8;5;Nagai;choo;head, chief, headman, commander, director, manager;naga(i);long, lengthy
+短;S1;12;2;Ya, Yahen;tan;shortness, brevity;mijika(i);short, brief
+元;S1;4;4;Hitoashi;gen, gan;yuan;moto;beginning, origin
+気;S1;6;5;Kigamae;ki, ke;spirit, mind, soul, heart;-;-
+赤;S1;7;4;Aka;seki, [shaku];red, crimson, scarlet;aka, aka(i), aka(ramu), aka(rameru);red, crimson, scarlet, Communist, Red. become red. blush, redden
+青;S1;8;4;Ao, Aohen;sei, [shoo];blue, green;ao, ao(i);blue, green
+黒;S1;11;4;Kuro;koku;black;kuro, kuro(i);black
+白;S1;5;5;Shiro;haku, byaku;white;shiro, [shira], shiro(i);white, fair (skin)
+黄;S1;11;2;Ki, Kiiro;koo, oo;yellow;ki, [ko];yellow. turn yellow. yellow tint
+色;S1;6;4;Iro;shoku, shiki;color;iro;color, tint, tinge
+車;S1;7;5;Kuruma, Kurumahen;sha;vehicle, a vehicle load;kuruma;wheel
+花;S1;7;4;Kusakanmuri;ka;flower;hana;flower, blossom
+絵;S1;12;3;Ito, Itohen;kai, e;picture, drawing, painting, sketch, illustration, cut, print;-;-
+馬;S1;10;3;Uma, Umahen;ba;horse;uma, [ma];horse
+駅;S1;14;4;Uma, Umahen;eki;post town;-;-
+皿;S1;5;2;Sara;-;-;sara;dish
+箱;S1;15;3;Take, Takekanmuri;-;-;hako;box, case, chest, bin, coffer, railway car 
+男;S1;7;5;Ta, Tahen;dan, nan;man, male;otoko;man, male
+女;S1;3;5;Onna, Onnahen;jo, nyo, [nyoo];woman, girl, daughter;onna, me;woman, female, sweetheart, girl
+子;S1;3;5;Ko, Kohen;shi, su;viscount, master;ko;child, offspring
+供;S1;8;3;Hito, Ninben, Hitoyane;kyoo, [ku];offer, present, submit;sona(eru), tomo;offer, sacrifice, dedicte
+上;S1;3;5;Ichi;joo, [shoo];top;ue, [uwa], kami, a(geru), a(garu), nobo(ru), nobo(seru), nobo(su);up, upper part, top, summit
+下;S1;3;5;Ichi;ka, ge;low class;shita, shimo, moto, sa(geru), sa(garu), kuda(ru), kuda(su), kuda(saru), o(rosu), o(riru);come down, go down
+中;S1;4;5;Boo;chuu, [jyuu];center, middle;naka;inside, interior, midst, middle, mean, midway 
+隣;S1;16;1;Kozatohen;rin;neighboring;tona(ru), tonari;adjoin, nextdoor neighbor, adjoining
+左;S1;5;5;E, Takumihen;sa;left;hidari;left
+右;S1;5;5;Kuchi, Kuchihen;u, yuu;right, right hand;migi;right, right hand
+地;S1;6;4;Tsuchi, Tsuchihen;chi, ji;earth, land, ground, the surface of the earth;-;-
+外;S1;5;5;Yuube;gai, ge;outside, without, beside, beyond the scope off;soto, hoka, ha(zusu), hazu(reru);outside, exterior, open air
+店;S1;8;4;Madare;ten;shop, store;mise;shop, store, booth
+員;S1;10;4;Kuchi, Kuchihen;in;member;-;-
+買;S1;12;4;Kai, Kaihen;bai;buying;ka(u);buy, invest in
+売;S1;7;4;Samurai;bai;selling;u(ru), u(reru);sell, deal in, betray, deceive, impose on, tell on, pick (a quarrel).
+物;S1;8;4;Ushi, Ushihen;butsu, motsu;thing, object, matter;mono;thing, object, matter
+果;S1;8;3;Ki, Kihen;ka;fruit, reward;ha(tasu), ha(teru), ha(te);carry out, achieve, complete
+公;S1;4;4;Hachi;koo;public, duke, lord;ooyake;public, open
+園;S1;13;3;Kunigamae;en;garden, yard, plantation, farm;sono;garden, park
+国;S1;8;5;Kunigamae;koku;country;kuni;country, land, realm
+友;S1;4;5;Mata;yuu;friend, companion, pal;tomo;friend, companion, pal
+達;S1;12;3;Shinnyoo;tatsu;reach, arrive at, attain;-;-
+皆;S1;9;3;Shiro;kai;all, everybody, everything;mina;all, everybody, everything
+階;S1;12;2;Kozatohen;kai;stair, staircase;-;-
+料;S1;10;4;Tomasu;ryoo;charge, rate, fee;-;-
+理;S1;11;4;Tama, Oo;ri;reason, justice, truth, principle;-;-
+映;S1;9;4;Nichi, Nichihen;ei;reflecting;utsu(ru), utsu(su), ha(eru);shine, be brilliant
+画;S1;8;4;Ta, Tahen;ga, kaku;picture, drawing, painting, sketch;-;-
+館;S1;16;4;Shoku, Shokuhen;kan;mansion, large building, hall;yakata;mansion
+好;S1;6;3;Onna, Onnahen;koo;like, be fond of;kono(mu), su(ku);like, be fond of. Love
+作;S1;7;4;Hito, Ninben, Hitoyane;saku, sa;a work, a production;tsuku(ru);a work, a production
+酒;S1;10;3;Tori, Torihen;shu;sake, rice wine, alcoholic liquor;sake, [saka];sake, rice wine, alcoholic liquor
+紅;S1;9;2;Ito, Itohen;koo, [ku];red, crimson;beni, kurenai;red, crimson
+茶;S1;9;4;Kusakanmuri;cha, sa;tea;-;-
+和;S1;8;3;Kuchi, Kuchihen;wa, [o];sum;yawa(ragu), yawa(rageru), nago(mu), nago(yaka);soften, be reconciled
+洋;S1;9;4;Mizu, Sanzui, Shitamizu;yoo;ocean, sea, channel. foreign, Western, European;-;-
+百;S1;6;5;Shiro;hyaku;hundred;-;-
+千;S1;3;5;Juu;sen;thousand, many;chi;thousand, many
+万;S1;3;5;Ichi;man, ban;ten thousand;-;-
+春;S1;9;4;Nichi, Nichihen;shun;spring;haru;spring, springtime
+夏;S1;10;4;Suinyoo;ka, [ge];summer;natsu;summer
+秋;S1;9;4;Nogi, Nogihen;shuu;autumn;aki;autumn
+冬;S1;5;4;Suinyoo;too;winter;fuyu;winter
+住;S1;7;4;Hito, Ninben, Hitoyane;juu;dwelling, living;su(mu), su(mau);live, reside, inhabit
+所;S1;8;3;To, Tokanmuri;sho;place;tokoro;place, spot, scene, site, seat
+名;S1;6;5;Kuchi, Kuchihen;mei, myoo;distinguished, noted, wise, name;na;name
+家;S1;10;4;Ukanmuri;ka, ke;house;ie, ya;house, home, residence
+週;S1;11;4;Shinnyoo;shuu;week;-;-
+年;S1;6;5;Ichijuu;nen;year;toshi;year
+去;S1;5;4;Mu;kyo, ko;leave, move away, quit;sa(ru);leave, move away, quit
+昨;S1;9;3;Nichi, Nichihen;saku;the past;-;-
+夕;S1;3;4;Yuube;seki;evening;yuu;evening
+方;S1;4;4;Hoo, Hoohen;hoo;direction, way;kata;direction
+病;S1;10;4;Yamaidare;byoo, [hei];get sick, be sick, suffer from ;ya(mu), yamai;get sick, be sick, suffer from. illness
+院;S1;10;4;Kozatohen;in;mansion;-;-
+貸;S1;12;4;Kai, Kaihen;tai;lend;ka(su);lend
+借;S1;10;4;Hito, Ninben, Hitoyane;shaku;borrowing;ka(riru);borrow
+毎;S1;6;5;Haha, Hahanokan;mai;each, every, at an interval of, whenever. Apiece;-;-
+海;S1;9;4;Mizu, Sanzui, Shitamizu;kai;sea, ocean;umi;sea, ocean
+暑;S1;12;1;Nichi, Nichihen;sho;summer heat;atsu(i);hot, warm, sultry
+寒;S1;12;3;Ukanmuri;kan;midwinter, coldest season;samu(i);cold, chilly
+天;S1;4;5;Dai;ten;sky, air, heavens, celestial sphere, firmament;ame, [ama];sky, heaven. Heavenly
+雨;S1;8;5;Ame, Amekanmuri;u;rain, fainfall;ame, [ama];rain, rainfall
+電;S1;13;5;Ame, Amekanmuri;den;electricity;-;-
+話;S1;13;5;Gon, Gonben;wa;talk, speak, converse;hana(su), hanashi;talk, speak, converse
+記;S1;10;3;Gon, Gonben;ki;account, narrative, history, annals;shiru(su);write down
+者;S1;8;4;Oikanmuri;sha;person;mono;person, somebody
+度;S1;9;4;Madare;do, [to], [taku];degree;tabi;time, occasion
+東;S1;8;5;Ki, Kihen;too;east;higashi;east
+京;S1;8;4;Nabebuta;kyoo, kei;ten quadrillion;-;-
+肉;S1;6;4;Niku, Nikuzuki;niku;flesh, muscles;-;-
+魚;S1;11;4;Uo, Uohen;gyo;fish;uo, sakana;fish
+漢;S1;13;4;Mizu, Sanzui, Shitamizu;kan;Han (Dynasty);-;-
+字;S1;6;4;Ko, Kohen;ji;character, letter, word, handwriting;aza;section of a village
+持;S1;9;4;Tehen;ji;hold, entertain, maintain, observe (principles);mo(tsu);hold, take, have, possess
+声;S1;7;3;Samurai;sei, [shoo];voice;koe, [kowa];voice
+使;S1;8;4;Hito, Ninben, Hitoyane;shi;use;tsuka(u);use
+取;S1;8;3;Mata;shu;take, hold, seize, catch, capture;to(ru);take, hold, seize, catch, capture
+央;S1;5;2;Dai;oo;middle;-;-
+泉;S1;9;2;Mizu, Sanzui, Shitamizu;sen;spring, fountain (head), source;izumi;spring, fountain (head), source
+線;S1;15;2;Ito, Itohen;sen;line;-;-
+写;S1;5;4;Wakanmuri;sha;be photographed;utsu(su), utsu(ru);be photographed
+真;S1;10;4;Me, Mehen;shin;truth;ma;just, right, due (east)
+入;S1;2;5;Iru;nyuu;go in, come in;i(ru), i(reru), hai(ru);go in, come in
+出;S1;5;5;Ukebako;shutsu, [sui];born of;de(ru), da(su);appear, come out, emerge
+乗;S1;9;3;No;joo;power (in math);no(ru), no(seru);ride, board, mount
+降;S1;10;3;Kozatohen;koo;going down;o(riru), o(rosu), fu(ru);fall, drop, come down (rain, etc.).
+着;S1;12;4;Hitsuji;chaku, [jaku];arrival, finish (in a race);ki(ru), ki(seru), tsu(ku), tsu(keru);put on, wear. clothe, dress
+歩;S1;8;4;Tomeru;ho, bu, [fu];step, pace;aru(ku), ayu(mu);walk, hike, step
+急;S1;9;4;Kokoro, Risshinben, Shitagokoro;kyuu;emergency;iso(gu);hurry, hasten
+座;S1;10;3;Madare;za;seat, cushion;suwa(ru);squat down, sit down, (eyes) are fixed on 
+銀;S1;14;4;Kane, Kanehen;gin;silver;-;-
+鉄;S1;13;2;Kane, Kanehen;tetsu;iron, steel;-;-
+図;S1;7;4;Kunigamae;zu, to;drawing, plan, figure, cut, chart, diagram, illustration, graph;haka(ru);measure, gauge, weigh
+性;S1;8;3;Kokoro, Risshinben, Shitagokoro;sei, shoo;sex, gender;-;-
+横;S1;15;3;Ki, Kihen;oo;horizontal;yoko;side, flank
+自;S2;6;4;Mizukara;ji, shi;oneself;mizuka(ra);oneself, personally
+転;S2;11;4;Kuruma, Kurumahen;ten;turn, remove, change;koro(garu), koro(geru), koro(gasu), koro(bu);roll over, tumble
+服;S2;8;4;Tsuki, Tsukihen;fuku;dress, costume, clothes, garment, suit, uniform;-;-
+族;S2;11;4;Hoo, Hoohen;zoku;family, relatives, clan, tribe, race;-;-
+父;S2;4;5;Chichi;fu;father;chichi;father
+母;S2;5;5;Haha, Hahanokan;bo;mother;haha;mother
+兄;S2;5;4;Hitoashi;kei, [kyoo];brother;ani;elder brother
+弟;S2;7;4;Yumi, Yumihen;tei, [dai], [de];younger brother, faithful service to those older;otooto;younger brother
+姉;S2;8;4;Onna, Onnahen;shi;elder sister;ane;elder sister
+妹;S2;8;4;Onna, Onnahen;mai;younger sister;imooto;younger sister
+両;S2;6;3;Ichi;ryoo;old Japanese coin;-;-
+親;S2;16;4;Miru;shin;intimacy;oya, shita(shii), shita(shimu);parent
+番;S2;12;3;Ta, Tahen;ban;watch, guard;-;-
+宿;S2;11;3;Ukanmuri;shuku;lodging, inn, post town, relay station, stage ;yado, yado(ru), yado(su);lodge, dwell, live in
+題;S2;18;4;Oogai;dai;subject, theme, topic;-;-
+遊;S2;12;3;Shinnyoo;yuu, [yu];play;aso(bu);play
+留;S2;10;3;Ta, Tahen;ryuu, [ru];stop, halt, stand still, pull up;to(meru), to(maru);stop, halt, stand still, pull up
+末;S2;5;3;Ki, Kihen;matsu, batsu;end;sue;end, close
+専;S2;9;2;Sun;sen;mainly, sorely, ;moppa(ra);mainly, sorely, 
+門;S2;8;2;Mongamae;mon;gate, gateway;kado;gate, door
+旅;S2;10;4;Hoo, Hoohen;ryo;journey;tabi;journey
+質;S2;15;4;Kai, Kaihen;shitsu, shichi, [chi];substance, matter, quality, temperament. hostage, pawn, pledge, hock ;-;-
+問;S2;11;4;Kuchi, Kuchihen;mon;question, problem, subject, discussion ;to(u), to(i), [ton];ask, question, inquire
+切;S2;4;4;Katana, Rittoo;setsu, [sai];cut, chop, hash;ki(ru), ki(reru);cut, chop, hash
+少;S2;4;4;Shoo;shoo;few;suku(nai), suko(shi);a small quantity, a little
+々;S2;-;-;-;-;-;-;-
+材;S2;7;2;Ki, Kihen;zai;log;-;-
+杯;S2;8;3;Ki, Kihen;hai;cup, glass;sakazuki;wine glass, sake cup
+早;S2;6;4;Nichi, Nichihen;soo, [saQ];quick, fast, speedy;haya(i), haya(maru), haya(meru);quick, fast, speedy
+遅;S2;12;3;Shinnyoo;chi;be late, be delayed, be overdue;oku(reru), oku(rasu), oso(i);be late, be delayed, be overdue
+始;S2;8;4;Onna, Onnahen;shi;beginning;haji(meru), haji(maru);begin, start, open
+終;S2;11;4;Ito, Itohen;shuu;end;o(waru), o(eru);end, terminate, adjourn, be over
+柔;S2;9;2;Ki, Kihen;juu, nyuu;weakness;yawa(raka), yawa(rakai);soft, tender, plastic
+固;S2;8;2;Kunigamae;ko;harden, stiffen, solidify, set, settle, congeal, clot, curdle, conglomerate;kata(meru), kata(maru), kata(i);harden
+温;S2;12;2;Mizu, Sanzui, Shitamizu;on;warm, heat;atata(ka), atata(kai), atata(maru), atata(meru);warm, heat
+建;S2;9;4;Ennyoo;ken, [kon];build, raise;ta(teru), ta(tsu);stand, rise
+辺;S2;5;2;Shinnyoo;hen;side;ata(ri), be;vicinity
+止;S2;4;4;Tomeru;shi;stop, halt, stand still, pull up;to(maru), to(meru);stop, halt, stand still, pull up
+甘;S2;5;2;Amai;kan;presume upon, take advantage of;ama(i), ama(eru), ama(yakasu);presume upon, take advantage of
+牛;S2;4;4;Ushi, Ushihen;gyuu;beef, cow;ushi;cattle, cow, bull, ox
+由;S2;5;3;Ta, Tahen;yu, yuu, [yui];depend on;yoshi;reason, cause, significance
+活;S2;9;3;Mizu, Sanzui, Shitamizu;katsu;living;-;-
+慣;S2;14;3;Kokoro, Risshinben, Shitagokoro;kan;experience;na(reru), na(rasu);tame, charm (animals)
+忙;S2;6;3;Kokoro, Risshinben, Shitagokoro;boo;busy, occupied;isoga(shii);busy, occupied
+暇;S2;13;1;Nichi, Nichihen;ka;rest, leisure;hima;time
+心;S2;4;4;Kokoro, Risshinben, Shitagokoro;shin;heart, mind, spirit;kokoro;mind, spirit
+思;S2;9;4;Kokoro, Risshinben, Shitagokoro;shi;think, believe, judge, esteem;omo(u);think, believe, judge, esteem
+組;S2;11;3;Ito, Itohen;so;take part in;ku(mu), kumi;braid, plait
+発;S2;9;4;Hatsugashira;hatsu, hotsu;departure;-;-
+表;S2;8;3;Koromo, Koromohen;hyoo;table, schedule, diagram, chart, list ;omote, arawa(su), arawa(reru);express, show, manifest.
+便;S2;9;3;Hito, Ninben, Hitoyane;ben, bin;convenience, facility;tayo(ri);news, tidings
+利;S2;7;3;Katana, Rittoo;ri;advantage, benefit, gain;ki(ku);take effect, do (a person) good
+不;S2;4;4;Fu;fu, bu;negation;-;-
+集;S2;12;4;Furutori;shuu;collection, gathering;atsu(maru), atsu(meru), tsudo(u);meet, assemble, congregate
+合;S2;6;3;Kuchi, Kuchihen;goo, gaQ, [kaQ];one-tenth;a(u), a(wasu), a(waseru);fit, suit
+痛;S2;12;3;Yamaidare;tsuu;pain;ita(i), ita(mu), ita(meru);feel a pain, hurt
+頭;S2;16;3;Oogai;too, zu, [to];head, counter for large mammals;atama, kashira;head
+葉;S2;12;3;Kusakanmuri;yoo;leaf;ha;leaf, foliage, needle, blade, spear, frond
+当;S2;6;3;Shoo;too;right, appropriateness, fairness;a(taru), a(teru);hit, strike, dash into
+道;S2;12;4;Shinnyoo;doo, [too];district, province, prefecture;michi;road, path, lane, way, street, highway, route
+熱;S2;15;3;Hi, Hihen, Renga;netsu;heat, warmth;atsu(i);hot
+貝;S2;7;2;Kai, Kaihen;-;-;kai;shell, shellfish
+閉;S2;11;3;Mongamae;hei;shut, close;to(jiru), to(zasu), shi(meru), shi(maru);shut, close. lock, fasten
+開;S2;12;4;Mongamae;kai;opening;hira(ku), hira(keru), a(ku), a(keru);open, unfold, unroll, uncover, unpack, untie, unseal
+変;S2;9;3;Suinyoo;hen;change;ka(waru), ka(eru);change, vary
+晴;S2;12;3;Nichi, Nichihen;sei;clear up, (doubts) vanish, be refreshed;ha(reru), ha(rasu);clear up
+疲;S2;10;3;Yamaidare;hi;get tired, grow weary ;tsuka(reru);get tired, grow weary 
+室;S2;9;4;Ukanmuri;shitsu;room, apartment, compartment, chamber;muro;greenhouse
+南;S2;9;5;Juu;nan, [na];south;minami;south
+西;S2;6;5;Nishi;sei, sai;west;nishi;west
+北;S2;5;5;Hi;hoku;north;kita;north
+野;S2;11;4;Sato, Satohen;ya;field, plain;no;field, plain
+同;S2;6;4;Kuchi, Kuchihen;doo;the same, the said, ibid;ona(ji);same, identical, equal
+州;S2;6;2;Magarigawa;shuu;province, state;su;sandbar, shallows
+多;S2;6;4;Yuube;ta;much;oo(i);many
+背;S2;9;3;Niku, Nikuzuki;hai;back, behind;se, sei, somu(ku), somu(keru);act contrary to, go back on, disobey, defy, rebel against, turn one's back on.
+歳;S2;13;3;Tomeru;sai, [sei];year, age;-;-
+都;S2;11;3;Oozato;to, tsu;capital, metropolis;miyako;capital, metropolis
+市;S2;5;3;Haba, Kinben;shi;city, town;ichi;market
+首;S2;9;3;Kubi;shu;head;kubi;neck, head
+台;S2;5;4;Kuchi, Kuchihen;dai, tai;stand, pedestal, rack, table, dais, bench, block;-;-
+軽;S2;12;2;Kuruma, Kurumahen;kei;light;karu(i), karo(yaka);light
+泳;S2;8;3;Mizu, Sanzui, Shitamizu;ei;swim;oyo(gu);swim
+湖;S2;12;2;Mizu, Sanzui, Shitamizu;ko;lake;mizuumi;lake
+初;S2;7;3;Katana, Rittoo;sho;beginning, first;haji(me), haji(mete), hatsu, ui, so(meru);beginning, origin. including, and, as well as. (for) the first time
+待;S2;9;4;Gyooninben;tai;waiting;ma(tsu);wait, wait for
+医;S2;7;4;Kakushigamae;i;medicine, the healing art;-;-
+師;S2;10;3;Haba, Kinben;shi;teacher, master;-;-
+落;S2;12;3;Kusakanmuri;raku;fall, drop, come down, go down;o(chiru), o(tosu);fall, drop, come down, go down
+打;S2;5;3;Tehen;da;striking;u(tsu);strike, hit, beat, knock, slap, punch, thrash, smite
+冷;S2;7;3;Nisui;rei;cold, cool ;tsume(tai), hi(eru), hi(ya), hi(yasu), hi(yakasu), sa(meru), sa(masu);cool down, grow cold
+内;S2;4;3;Hito, Ninben, Hitoyane;nai, [dai];inside, interior, within, between, among. within, within the scope of ;uchi;inside, interior
+悪;S2;11;4;Kokoro, Risshinben, Shitagokoro;aku, o;evil, wrong, vice, wickedness, lawlessness;waru(i);bad, evil, wrong
+骨;S2;10;2;Hone, Honehen;kotsu;bone;hone;bone
+治;S2;8;3;Mizu, Sanzui, Shitamizu;chi, ji;peace;osa(meru), osa(maru), nao(ru), nao(su);govern, manage, regulate
+運;S2;12;4;Shinnyoo;un;destiny, fate, lot, fortune, luck;hako(bu);transport, carry
+動;S2;11;4;Chikara;doo;motion;ugo(ku), ugo(kasu);move, stir, shift, shake, swing
+立;S2;5;4;Tatsu;ritsu, [ryuu];standing;ta(tsu), ta(teru);stand, rise
+受;S2;8;3;Mata;ju;receive;u(keru), u(karu);receive, accept, take, get, obtain
+付;S2;5;3;Hito, Ninben, Hitoyane;fu;give to, submit to, refer to;tsu(keru), tsu(ku);attach, join, stick, glue, fasten
+次;S2;6;3;Akubi;ji, shi;order, sequence;tsu(gu), tsugi;rank next to, come later. next
+薬;S2;16;3;Kusakanmuri;yaku;medicine;kusuri;medicine
+浴;S2;10;2;Mizu, Sanzui, Shitamizu;yoku;bathe, be favored with;a(biru), a(biseru);bathe in, pour on oneself, bask in, be flooded with, be under (fire)
+要;S2;9;3;Nishi;yoo;main point, essence;kaname, i(ru);require, need
+給;S2;12;3;Ito, Itohen;kyuu;wage;-;-
+以;S2;5;4;Hito, Ninben, Hitoyane;i;with, by, by means of;-;-
+力;S2;2;4;Chikara;ryoku, riki;strain, bear up, exert one's strength;chikara;strength, energy, force, might, power
+働;S2;13;3;Hito, Ninben, Hitoyane;doo;work, labor;hatara(ku);work, labor
+覚;S2;12;3;Miru;kaku;remember, memorize;obo(eru), sa(masu), sa(meru);remember, memorize
+欠;S2;4;3;Akubi;ketsu;lack, gap;ka(keru), ka(ku);lack
+席;S2;10;3;Haba, Kinben;seki;seat;-;-
+容;S2;10;3;Ukanmuri;yoo;form;-;-
+知;S2;8;4;Ya, Yahen;chi;know, acquaintance, sense;shi(ru);know
+失;S2;5;3;Dai;shitsu;error;ushina(u);lose, miss (a chance)
+礼;S2;5;3;Shimesu, Shimesuhen;rei, rai;salutation, salute, bow, courtesy, propriety, ceremony;-;-
+平;S2;5;3;Ichijuu;hei, byoo;level, peaceful;tai(ra), hira;flat, smooth
+回;S2;6;3;Kunigamae;kai, [e];time;mawa(ru), mawa(su);and, turn, go around
+習;S2;11;4;Hane;shuu;learn, be taught, take lessons, practice;nara(u);learn, be taught, take lessons, practice
+雪;S2;11;3;Ame, Amekanmuri;setsu;snow, snowfall;yuki;snow, snowfall
+量;S2;12;2;Sato, Satohen;ryoo;quantity, amount, volume;haka(ru);measure, gauge, weigh
+冊;S2;5;2;Doogamae;satsu, saku;volume, book, letter;-;-
+弾;S2;12;1;Yumi, Yumihen;dan;bullet;hi(ku), hazu(mu), tama;play on. spring, bound, rebound
+飼;S2;13;1;Shoku, Shokuhen;shi;raising (animals);ka(u);raise, keep, feed
+関;S2;14;3;Mongamae;kan;barrier, gateway;seki, kaka(waru);concern oneself in, have to do with
+残;S2;10;3;Kabanehen;zan;remainder;noko(ru), noko(su);remain, be left over
+念;S2;8;3;Kokoro, Risshinben, Shitagokoro;nen;sense, idea, thought;-;-
+用;S2;5;4;Mochiiru;yoo;business, work;mochi(iru);use, adopt (a method), employ
+枚;S2;8;2;Ki, Kihen;mai;counter for thin flat things, page, leaf (of a book), sheet;-;-
+送;S2;9;4;Shinnyoo;soo;sending;oku(ru);send, ship
+込;S2;5;3;Shinnyoo;-;-;ko(mu), ko(meru);be crowded
+歌;S2;14;4;Akubi;ka;sing, recite, chant, carol;uta, uta(u);sing, recite, chant, carol
+近;S2;7;4;Shinnyoo;kin;early, immediate;chika(i);early, immediate
+遠;S2;13;3;Shinnyoo;en, [on];far, distant, remote;too(i);far, distant, remote
+全;S2;6;3;Hito, Ninben, Hitoyane;zen;all;matta(ku), sube(te);entirely, completely, wholly, perfectly
+迎;S2;7;3;Shinnyoo;gei;meet, greet, welcome;muka(eru);meet, greet, welcome
+誘;S2;14;1;Gon, Gonben;yuu;invite, ask;saso(u);invite, ask
+客;S2;9;3;Ukanmuri;kyaku, kaku;visitor;-;-
+様;S2;14;3;Ki, Kihen;yoo;way, manner, method;sama;situation, circumstances, condition. Mr., Mrs., Messrs., Mme., Miss, Master 
+弱;S2;10;2;Yumi, Yumihen;jaku;weakness;yowa(i), yowa(ru), yowa(maru), yowa(meru);weaken, be emaciated
+研;S2;9;4;Ishi, Ishihen;ken;sharpen, grind, scour, hone, polish;to(gu);sharpen, grind, scour, hone, polish
+究;S2;7;4;Ana, Anakanmuri;kyuu;investigate thoroly, master;kiwa(meru);investigate thoroly, master
+袋;S2;11;2;Koromo, Koromohen;tai;bag;fukuro;bag, sack, pouch
+場;S2;12;4;Tsuchi, Tsuchihen;joo;place, grounds, links, range, course, track, ring;ba;place, site
+曲;S2;6;3;Hirabi;kyoku;music, tone, melody, composition;ma(garu), ma(geru);bend, curve, swerve
+側;S2;11;3;Hito, Ninben, Hitoyane;soku;lean to one side, oppose, look aside, regret;gawa;a side
+汚;S2;6;2;Mizu, Sanzui, Shitamizu;o;make dirty, stain, pollute, defile, contaminate;kega(su), kega(reru), kega(rawashii), yogo(su), yogo(reru), kitana(i);make dirty, stain, pollute, defile, contaminate
+試;S2;13;4;Gon, Gonben;shi;testing;kokoro(miru), tame(su);try, attempt. experiment, test, sample 
+験;S2;18;4;Uma, Umahen;ken, [gen];effect;-;-
+進;S2;11;3;Shinnyoo;shin;advancing;susu(mu), susu(meru);advance, proceed, progress
+信;S2;9;3;Hito, Ninben, Hitoyane;shin;truth;-;-
+迷;S2;9;3;Shinnyoo;mei;be perplexed, be in doubt, hesitate, vacillate, go astray, err;mayo(u);be perplexed, be in doubt, hesitate, vacillate, go astray, err
+菜;S2;11;2;Kusakanmuri;sai;side dish;na;greens
+続;S2;13;3;Ito, Itohen;zoku;continuation, second series;tsuzu(ku), tsuzu(keru);continue
+辛;S2;7;2;Karai;shin;H, eighth;kara(i);hot, acrid, sharp
+通;S2;10;4;Shinnyoo;tsuu, [tsu];pass;too(ru), too(su), kayo(u);walk along, pass by
+必;S2;5;3;Kokoro, Risshinben, Shitagokoro;hitsu;certainly;kanara(zu);certainly, positively, invariably
+練;S2;14;2;Ito, Itohen;ren;gloss, soften;ne(ru);gloss, soften
+世;S2;5;4;Ichi;sei, se;generation;yo;world, society, public
+玄;S2;5;1;Gen;gen;occultness, mystery, black;-;-
+伝;S2;6;3;Hito, Ninben, Hitoyane;den;legend, tradition;tsuta(waru), tsuta(eru), tsuta(u);go along, walk along, follow.
+無;S2;12;2;Hi, Hihen, Renga;mu, bu;nothing, nil, negation;na(i);if there were none
+湯;S2;12;2;Mizu, Sanzui, Shitamizu;too;hot water;yu;hot water, hot bath, hot spring
+洗;S2;9;3;Mizu, Sanzui, Shitamizu;sen;wash;ara(u);wash, inquire into, probe
+片;S2;4;2;Katahen;hen;leaf, sheet, petal, flake;kata;one (eye, etc.)
+顔;S2;18;3;Oogai;gan;face, countenance;kao;face, countenance, expression
+代;S2;5;4;Hito, Ninben, Hitoyane;dai, tai;period, age, generation;ka(waru), ka(eru), yo, shiro;world, society, public
+払;S2;5;3;Tehen;futsu;clear out, sweep away, wipe off, brush off, drive away, banish;hara(u);clear out, sweep away, wipe off, brush off, drive away, banish
+苦;S2;8;3;Kusakanmuri;ku;suffering, trial, worry, trouble, hardship, difficulty, toil;kuru(shii), kuru(shimu), kuru(shimeru), niga(i), niga(ru);suffer
+意;S2;13;4;Kokoro, Risshinben, Shitagokoro;i;mind, heart;-;-
+味;S2;8;4;Kuchi, Kuchihen;mi;taste, flavor, dash;aji, aji(wau);taste
+泊;S2;8;2;Mizu, Sanzui, Shitamizu;haku;(three-day) stay;to(maru), to(meru);stay at, put up at
+風;S2;9;4;Kaze;fuu, [fu];wind;kaze, [kaza];wind, storm, breeze, draft, current of air
+呂;S2;7;1;Kuchi, Kuchihen;ro;backbone;-;-
+脱;S2;11;1;Niku, Nikuzuki;datsu;removing;nu(gu), nu(geru);take off (clothes)
+庭;S2;10;3;Madare;tei;yard, courtyard, garden;niwa;yard, courtyard, garden
+涼;S2;11;2;Mizu, Sanzui, Shitamizu;ryoo;cool;suzu(shii), suzu(mu);cool oneself, enjoy the evening air. cool, refreshing
+暖;S2;13;1;Nichi, Nichihen;dan;warmth;atata(ka), atata(kai), atata(maru), atata(meru);warm, heat. warm oneself, sun oneself, get warm. mild, genial, cordial 
+重;S2;9;4;Sato, Satohen;juu, choo;nest of boxes;e, omo(i), kasa(neru), kasa(naru);pile up, heap up, add, repeat. be piled
+空;S2;8;4;Ana, Anakanmuri;kuu;air, sky;sora, a(ku), a(keru), kara;become empty, be less crowded
+眠;S2;10;3;Me, Mehen;min;sleep;nemu(ru), nemu(i);sleep, die. sleepy, drowsy, lethargic
+具;S2;8;3;Hachi;gu;tool;-;-
+増;S2;14;3;Tsuchi, Tsuchihen;zoo;increase;ma(su), fu(eru), fu(yasu);increase, add to, augment, gain
+革;S2;9;2;Kakunokawa, Kawahen;kaku;tanned leather;kawa;skin
+毛;S2;4;2;Ke;moo;hair, tenth of a rin;ke;hair, fur, feather, down
+引;S2;4;3;Yumi, Yumihen;in;draw, pull, haul, tug, jerk, drag, trail, bend, attract;hi(ku), hi(keru);draw, pull, haul, tug, jerk, drag, trail, bend, attract
+押;S2;8;3;Tehen;oo;push, shove;o(su), o(saeru);push, shove
+折;S2;7;3;Tehen;setsu;break, snap, fracture, knock out (teeth);o(ru), ori, o(reru);break, snap, fracture, knock out (teeth)
+界;S2;9;4;Ta, Tahen;kai;circle, world, boundary, limits;-;-
+数;S2;13;3;Nobun;suu, [su];strength;kazu, kazo(eru);number, figure. count, calculate, enumerate
+景;S2;12;3;Nichi, Nichihen;kei;view, scene;-;-
+最;S2;12;3;Hirabi;sai;most;motto(mo);most
+正;S2;5;4;Tomeru;sei, shoo;right, righteousness, justice;tada(shii), tada(su), masa;correct
+並;S2;8;2;Ni;hei;line up, be in a row;nami, mara(beru), nara(bu), nara(bini);line up, be in a row
+値;S2;10;3;Hito, Ninben, Hitoyane;chi;price, cost, value;ne, atai;price, cost, value
+段;S2;9;3;Rumata;dan;steps, stair, flight of stairs;-;-
+的;S2;8;4;Shiro;teki;mark, target;mato;mark, target
+減;S2;12;2;Mizu, Sanzui, Shitamizu;gen;decrease, decline;he(ru), he(rasu);decrease, dwindle, subside
+街;S2;12;1;Gyoogamae;gai, [kai];street, avenue;machi;town
+昔;S2;8;3;Nichi, Nichihen;seki, [shaku];antiquity, old times;mukashi;antiquity, old times
+優;S2;17;3;Hito, Ninben, Hitoyane;yuu;actor;yasa(shii), sugu(reru);excel, surpass
+然;Vacances d'été;12;3;Hi, Hihen, Renga;zen, nen;to decree;-;-
+森;Vacances d'été;12;2;Ki, Kihen;shin;woods, grove;mori;woods, grove
+林;Vacances d'été;8;2;Ki, Kihen;rin;forest;hayashi;forest
+竹;Vacances d'été;6;2;Take, Takekanmuri;chiku;bamboo;take;bamboo
+石;Vacances d'été;5;3;Ishi, Ishihen;seki, [shaku], [koku];stone, pebble, rock;ishi;stone, pebble, rock
+岩;Vacances d'été;8;2;Yama, Yamahen;gan;rock, crag;iwa;rock, crag
+畑;Vacances d'été;9;0;Ta, Tahen;-;-;hata, hatake;field, farm, plantation, garden
+池;Vacances d'été;6;2;Mizu, Sanzui, Shitamizu;chi;pond, pool, cistern, basin, reservoir;ike;pond, pool, cistern, basin, reservoir
+星;Vacances d'été;9;2;Nichi, Nichihen;sei, [shoo];star;hoshi;star
+光;Vacances d'été;6;3;Hitoashi;koo;light;hika(ru), hikari;shine, glitter, sparkle, twinkle, flash. light, beam, glare
+雲;Vacances d'été;12;2;Ame, Amekanmuri;un;cloud;kumo;cloud
+島;Vacances d'été;10;2;Yama, Yamahen;too;island;shima;island
+鳥;Vacances d'été;11;4;Tori;choo;bird;tori;bird, chicken, fowl
+虫;Vacances d'été;6;2;Mushi, Mushihen;chuu;worm, vermin, bug, insect;mushi;worm, vermin, bug, insect
+羽;Vacances d'été;6;2;Hane;u;feather;ha, hane;feather
+匹;Vacances d'été;4;2;Kakushigamae;hitsu;head, counter (small animals);hiki;head, counter (small animals)
+植;Vacances d'été;12;2;Ki, Kihen;shoku;planting;u(eru), u(waru);plant, set out, raise, sow
+草;Vacances d'été;9;3;Kusakanmuri;soo;grass;kusa;grass
+糸;Vacances d'été;6;2;Ito, Itohen;shi;thread;ito;thread, yarn
+原;Vacances d'été;10;3;Gandare;gen;original, primitive;hara;field, plain, prairie, tundra, moor, wilderness
+桜;Vacances d'été;10;1;Ki, Kihen;oo;flowering cherry;sakura;flowering cherry
+咲;Vacances d'été;9;2;Kuchi, Kuchihen;-;-;sa(ku);bloom, blossom
+鳴;Vacances d'été;14;3;Tori;mei;(animals and birds) cry, bark, chirp, etc, ;na(ku), na(ru), na(rasu);(animals and birds) cry, bark, chirp, etc. sound, ring, roar
+品;Vacances d'été;9;4;Kuchi, Kuchihen;hin;refinement, dignity;shina;article, goods, thing
+米;Vacances d'été;6;3;Kome, Komehen;bei, mai;rice, U.S.A.;kome;rice
+豆;Vacances d'été;7;1;Mame;too, [zu];beans, peas, pulse;mame;beans, peas, pulse
+麦;Vacances d'été;7;2;Mugi;baku;wheat, barley, oats, rye;mugi;wheat, barley, oats, rye
+粉;Vacances d'été;10;2;Kome, Komehen;fun;dust, powder;ko;kona
+油;Vacances d'été;8;2;Mizu, Sanzui, Shitamizu;yu;oil;abura;oil
+乳;Vacances d'été;8;2;Otsu, Otsunyoo;nyuu;milk;chichi, chi;milk
+卵;Vacances d'été;7;2;Fushizukuri, Warifu;ran;ovum;tamago;egg, spawn, roe
+塩;Vacances d'été;13;2;Tsuchi, Tsuchihen;en;salt;shio;salt, seasoning
+砂;Vacances d'été;9;2;Ishi, Ishihen;sa, sha;sand;suna;sand
+糖;Vacances d'été;16;1;Kome, Komehen;too;sugar;-;-
+飯;Vacances d'été;12;4;Shoku, Shokuhen;han;cooked rice;meshi;cooked rice
+体;Vacances d'été;7;4;Hito, Ninben, Hitoyane;tai, tei;the body;karada;body, health
+足;Vacances d'été;7;4;Ashi, Ashihen;soku;foot;ashi, ta(riru), ta(ru), ta(su);foot
+歯;Vacances d'été;12;3;Ha, Hahen;shi;tooth;ha;tooth, cog, dent
+鼻;Vacances d'été;14;2;Hana;bi;nasal;hana;nose
+指;Vacances d'été;9;3;Tehen;shi;finger;yubi, sa(su);point to, indicate
+腕;Vacances d'été;12;2;Niku, Nikuzuki;wan;arm;ude;arm
+肩;Vacances d'été;8;2;Niku, Nikuzuki;ken;shoulder;kata;shoulder
+髪;Vacances d'été;14;3;Kamigashira;hatsu;the hair;kami;the hair
+腹;Vacances d'été;13;3;Niku, Nikuzuki;fuku;belly, stomach ;hara;abdomen, belly, bowels, stomach
+息;Vacances d'été;10;3;Kokoro, Risshinben, Shitagokoro;soku;son;iki;breath, respiration
+死;Vacances d'été;6;4;Kabanehen;shi;death;shi(nu);die
+夫;Vacances d'été;4;3;Dai;fu, [fuu];husband;otto;husband, spouse
+主;Vacances d'été;5;4;Ten;shu, [su];Lord;nushi, omo;owner
+妻;Vacances d'été;8;3;Onna, Onnahen;sai;(my) wife;tsuma;wife, spouse
+奥;Vacances d'été;12;2;Dai;oo;heart, interior;oku;heart, interior
+祖;Vacances d'été;9;3;Shimesu, Shimesuhen;so;ancestor, founder, originator, pioneer;-;-
+娘;Vacances d'été;10;3;Onna, Onnahen;-;-;musume;daughter, girl, young woman
+門;Vacances d'été;8;2;Mongamae;mon;gate, gateway;kado;gate, door
+窓;Vacances d'été;11;3;Ana, Anakanmuri;soo;window;mado;window
+戸;Vacances d'été;4;2;To, Tokanmuri;ko;house;to;door
+机;Vacances d'été;6;2;Ki, Kihen;ki;desk, table;tsukue;desk, table
+棚;Vacances d'été;12;1;Ki, Kihen;-;-;tana;shelf, ledge, rack, mount, mantelpiece
+傘;Vacances d'été;12;1;Hito, Ninben, Hitoyane;san;umbrella, parasol;kasa;umbrella, parasol
+財;Vacances d'été;10;3;Kai, Kaihen;zai, [sai];money, wealth, assets;-;-
+布;Vacances d'été;5;2;Haba, Kinben;fu;cloth;nuno;cloth
+帽;Vacances d'été;12;2;Haba, Kinben;boo;cap, headgear;-;-
+弁;Vacances d'été;5;1;Komanuki, Nijuuashi;ben;braid. petal, valve. discrimination. speech, dialect;-;-
+雑;Vacances d'été;14;3;Furutori;zatsu, zoo;miscellany;-;-
+誌;Vacances d'été;14;2;Gon, Gonben;shi;records;-;-
+辞;Vacances d'été;13;3;Karai;ji;word, term, expression;ya(meru);resign
+帳;Vacances d'été;11;1;Haba, Kinben;choo;notebook;-;-
+谷;Vacances d'été;7;2;Tani;koku;valley, dale, ravine;tani;valley, dale, ravine
+招;S3;8;3;Tehen;shoo;beckon to, invite, summon;mane(ku);beckon to, invite, summon
+券;S3;8;2;Katana, Rittoo;ken;ticket, coupon, bond, certificate;-;-
+美;S3;9;3;Hitsuji;bi;beauty, grace, charm;utsuku(shii);beautiful, lovely, fine, good-looking
+術;S3;11;3;Gyoogamae;jutsu;art, technique, skill;-;-
+博;S3;12;1;Juu;haku, [baku];command esteem, win acclaim;-;-
+散;S3;12;3;Nobun;san;scatter, disperse;chi(ru), chi(rasu), chi(rakasu), chi(rakaru);fall, scatter, be scattered, be shed
+約;S3;9;3;Ito, Itohen;yaku;promise, vow;-;-
+束;S3;7;3;Ki, Kihen;soku;bundle, sheaf, ream (of paper);taba;bundle, bunch, sheaf, coil
+忘;S3;7;3;Kokoro, Risshinben, Shitagokoro;boo;forget;wasu(reru);forget
+相;S3;9;3;Me, Mehen;soo, shoo;aspect, phase, physiognomy. minister of state, councilor;ai;together, each other
+僕;S3;14;1;Hito, Ninben, Hitoyane;boku;manservant, I (used by male speakers) ;-;-
+君;S3;7;3;Kuchi, Kuchihen;kun;mister (familiar);kimi;you (familiar)
+武;S3;8;2;Tomeru;bu, mu;military affairs, military arts, chivalry, military glory, military power, arms;-;-
+良;S3;7;3;Kon;ryoo;good, fine;yo(i);good, good-natured
+彼;S3;8;3;Gyooninben;hi;he;kare, [kano];he. that, the 
+菓;S3;11;2;Kusakanmuri;ka;cakes;-;-
+放;S3;8;3;Nobun;hoo;set free, release, fire, shoot;hana(su), hana(tsu), hana(reru), hoo(ru);set free, release, fire, shoot
+課;S3;15;2;Gon, Gonben;ka;lesson;-;-
+割;S3;12;3;Katana, Rittoo;katsu;divide, cut, halve;wa(ru), wari, wa(reru), sa(ku);divide, break, rate, percentage
+倒;S3;10;3;Hito, Ninben, Hitoyane;too;fall, collapse, drop;tao(reru), tao(su);fall, collapse, drop
+壊;S3;16;1;Tsuchi, Tsuchihen;kai;break;kowa(su), kowa(reru);break
+消;S3;10;3;Mizu, Sanzui, Shitamizu;shoo;extinguish, blow out;ki(eru), ke(su);extinguish, blow out
+流;S3;10;3;Mizu, Sanzui, Shitamizu;ryuu, [ru];current;naga(reru), naga(su);flow, trickle, ooze, drain, run down
+器;S3;15;1;Kuchi, Kuchihen;ki;container;utsuwa;vessel, receptacle, utensil, implement, instrument
+面;S3;9;3;Men;men;face features;omo, omote, tsura;face, honor, reputation. surface
+堂;S3;11;4;Tsuchi, Tsuchihen;doo;temple;-;-
+確;S3;15;3;Ishi, Ishihen;kaku;firm, tight, hard, solid;tashi(ka), tashi(kameru);ascertain, confirm, verify
+認;S3;14;3;Gon, Gonben;nin;witness;mito(meru);witness
+簡;S3;18;2;Take, Takekanmuri;kan;brevity, simplicity;-;-
+単;S3;9;3;Tsukanmuri;tan;one, single, simple, singular, individual;-;-
+難;S3;18;3;Furutori;nan;trouble, difficulty;kata(i), muzuka(shii);impossible. hard, difficult
+速;S3;10;3;Shinnyoo;soku;speedy, prompt, swift;haya(i), haya(meru), haya(maru), sumi(yaka);speedy, prompt, swift. hasten, precipitate, accelerate, expedite
+嫌;S3;13;1;Onna, Onnahen;ken, [gen];dislike, hate;kira(u), iya;hate, detest, dislike
+細;S3;11;2;Ito, Itohen;sai;get thin;hoso(i), hoso(ru), koma(ka), koma(kai);get thin
+低;S3;7;2;Hito, Ninben, Hitoyane;tei;low;hiku(i), hiku(meru), hiku(maru);low, short
+若;S3;8;3;Kusakanmuri;jaku, [nyaku];if;waka(i), mo(shikuwa);young, juvenile, youthful
+深;S3;11;3;Mizu, Sanzui, Shitamizu;shin;deep;fuka(i), fuka(maru), fuka(meru);deep
+浅;S3;9;2;Mizu, Sanzui, Shitamizu;sen;shallow;asa(i);shallow
+太;S3;4;3;Dai;tai, ta;get fat, gain, fill out;futo(i), futo(ru);get fat, gain, fill out. big, thick, burly, fat
+越;S3;12;3;Hashiru, Soonyoo;etsu;cross;ko(su), ko(eru);cross
+壁;S3;16;1;Tsuchi, Tsuchihen;heki;wall;kabe;wall
+床;S3;7;2;Madare;shoo;bed, floor;toko, yuka;bed
+賃;S3;13;1;Kai, Kaihen;chin;hire, rent, wages, fare, freight, charge, fee;-;-
+決;S3;7;3;Mizu, Sanzui, Shitamizu;ketsu;decision, vote;ki(meru), ki(maru);fix, decide, agree upon
+選;S3;15;3;Shinnyoo;sen;selection, choice;era(bu);select, choose
+調;S3;15;3;Gon, Gonben;choo;tune, tone, meter;shira(beru), totono(u), totono(eru);test, examine, investigate, survey, check up
+連;S3;10;3;Shinnyoo;ren;ream;tsura(naru), tsura(neru), tsu(reru);range, be connected with, join
+絡;S3;12;2;Ito, Itohen;raku;coil around, get twisted;kara(mu), kara(maru), kara(meru);coil around, get twisted
+形;S3;7;3;Sanzukuri;kei, gyoo;shape;kata, katachi;shape, form, make, size, format, mark
+予;S3;4;3;Haneboo;yo;I, myself, the writer;-;-
+拾;S3;9;2;Tehen;shuu, juu;ten;hiro(u);pick up, gather
+捨;S3;11;2;Tehen;sha;throw away, discard, abandon, desert, give up;su(teru);throw away, discard, abandon, desert, give up
+域;S3;11;2;Tsuchi, Tsuchihen;iki;region;-;-
+役;S3;7;3;Gyooninben;eki, yaku;war, campaign, battle, expedition;-;-
+郵;S3;11;2;Oozato;yuu;stagecoach stop;-;-
+局;S3;7;3;Shikabane;kyoku;bureau, board, office;-;-
+身;S3;7;3;Mi;shin;body;mi;body
+包;S3;5;2;Tsutsumigamae;hoo;wrap, pack up;tsutsu(mu);wrap, pack up
+位;S3;7;3;Hito, Ninben, Hitoyane;i;rank, place, grade;kurai;grade, rank
+置;S3;13;3;Amigashira;chi;place, put, set, deposit, lay;o(ku);place, put, set, deposit, lay
+届;S3;8;2;Shikabane;-;-;todo(keru), todo(ku);reach, arrive, be received
+更;S3;7;3;Hirabi;koo;a watch of the night;sara, fu(keru), fu(kasu);sit up late. get late
+製;S3;14;1;Koromo, Koromohen;sei;make, manufacture;-;-
+向;S3;6;3;Kuchi, Kuchihen;koo;face, confront;mu(ku), mu(keru), mu(kau), mu(koo);face, confront
+危;S3;6;3;Fushizukuri, Warifu;ki;be afraid of, feel uneasy about, shrink from;abu(nai), aya(ui), aya(bumu);fear, have misgivings, be doubtful, mistrust
+険;S3;11;3;Kozatohen;ken;inaccessible place, impregnable pass, strategic position;kewa(shii);steep
+暮;S3;14;3;Nichi, Nichihen;bo;live, make a living;ku(reru), ku(rasu);live, make a living
+震;S3;15;2;Ame, Amekanmuri;shin;shake, tremble, quiver, shiver, shudder;furu(u), furu(eru);shake, tremble, quiver, shiver, shudder
+在;S3;6;3;Tsuchi, Tsuchihen;zai;outskirts, suburbs, country ;a(ru);there is, have, exist
+特;S3;10;4;Ushi, Ushihen;toku;special;-;-
+準;S3;13;2;Mizu, Sanzui, Shitamizu;jun;apply correspondingly, correspond to, be proportionate to, conform to ;-;-
+備;S3;12;3;Hito, Ninben, Hitoyane;bi;be furnished with, be endowed with, possess;sona(eru), sona(waru);be furnished with, be endowed with, possess
+説;S3;14;3;Gon, Gonben;setsu, [zei];opinion, view, assertion;to(ku);explain, expound, advocate, preach, teach, persuade
+接;S3;11;2;Tehen;setsu;touch, contact;tsu(gu);join, piece together, splice, cement, set (broken bones)
+配;S3;10;3;Tori, Torihen;hai;distribute;kuba(ru);distribute
+答;S3;12;4;Take, Takekanmuri;too;answer;kota(eru), kota(e);answer
+願;S3;19;3;Oogai;gan;prayer, petition, vow;nega(u);desire, wish, hope
+授;S3;11;1;Tehen;ju;give, grant;sazu(keru), sazu(karu);grant, confer, award, invest (with authority)
+業;S3;13;4;Ki, Kihen;gyoo, goo;vocation, occupation, business, trade, profession;waza;deed, act, work, art, trick, performance
+想;S3;13;3;Kokoro, Risshinben, Shitagokoro;soo, [so];idea, conception, thought;-;-
+直;S3;8;3;Me, Mehen;choku, jiki;honesty, frankness;tada(chini), nao(su), nao(ru);be mended
+経;S3;11;3;Ito, Itohen;kei, kyoo;longitude;he(ru);pass, elapse
+営;S3;12;2;Tsukanmuri;ei;camp, performing;itona(mu);perform (ceremoies)
+済;S3;11;3;Mizu, Sanzui, Shitamizu;sai;end;su(mu), su(masu);end
+歴;S3;14;2;Tomeru;reki;history;-;-
+史;S3;5;2;Kuchi, Kuchihen;shi;history, chronicles;-;-
+育;S3;8;3;Niku, Nikuzuki;iku;be raised, be brought up, grow, grow up;soda(tsu), soda(teru), haguku(mu);be raised, be brought up, grow, grow up
+政;S3;9;3;Nobun;sei, [shoo];government, rule;matsurigoto;government, rule
+法;S3;8;3;Mizu, Sanzui, Shitamizu;hoo, [haQ], [hoQ];law, rule, principle;-;-
+王;S3;4;3;Tama, Oo;oo;king, rule, magnate, baron;-;-
+感;S3;13;3;Kokoro, Risshinben, Shitagokoro;kan;feeling, sensation, sentiment;-;-
+謝;S3;17;1;Gon, Gonben;sha;thank;ayama(ru);apologize
+荷;S3;10;2;Kusakanmuri;ka;shoulder-pole load;ni;load, baggage, freight, cargo
+紹;S3;11;2;Ito, Itohen;shoo;inherit, help;-;-
+介;S3;4;2;Hito, Ninben, Hitoyane;kai;shell, shellfish;-;-
+港;S3;12;3;Mizu, Sanzui, Shitamizu;koo;port, harbor;minato;port, harbor
+結;S3;12;1;Ito, Itohen;ketsu;tie, bind;musu(bu), yu(u), yu(waeru);tie, bind
+婚;S3;11;3;Onna, Onnahen;kon;marriage;-;-
+式;S3;6;3;Shikigamae;shiki;ceremony, rite, function;-;-
+独;S3;9;1;Inu, Kemonohen;doku;alone;hito(ri);alone, on one's own
+誕;S3;15;1;Gon, Gonben;tan;be born;-;-
+才;S3;3;3;Tehen;sai;ability, talent, aptitude, genius, acumen, intelligence, wit;-;-
+満;S3;12;3;Mizu, Sanzui, Shitamizu;man;fullness, enough;mi(chiru), mi(tasu);be full
+別;S3;7;4;Katana, Rittoo;betsu;divide, split, separate;waka(reru);branch off, diverge from, fork
+快;S3;7;2;Kokoro, Risshinben, Shitagokoro;kai;pleasure, enjoyment;kokoroyo(i);pleasant, agreeable, comfortable, refreshing, delightful
+適;S3;14;3;Shinnyoo;teki;suitable;-;-
+実;S3;8;3;Ukanmuri;jitsu;truth, reality;mi, mino(ru);ripen
+提;S3;12;1;Tehen;tei;take along, carry in the hand;sa(geru);take along, carry in the hand
+健;S3;11;1;Hito, Ninben, Hitoyane;ken;health, strength;suko(yaka);vigorous, healthy, sound
+康;S3;11;1;Madare;koo;peace;-;-
+注;S3;8;4;Mizu, Sanzui, Shitamizu;chuu;notes, comment;soso(gu);pour into, pour on, irrigate, sprinkle
+困;S3;7;3;Kunigamae;kon;be distressed be in trouble, be destitute, be embarrassed;koma(ru);be distressed be in trouble, be destitute, be embarrassed, be perplexed, be annoyed 
+濯;S3;17;2;Mizu, Sanzui, Shitamizu;taku;wash, pour on, rinse;-;-
+干;S3;3;2;Ichijuu;kan;parch, get dry;ho(su), hi(ru);parch, get dry
+守;S3;6;3;Ukanmuri;shu, [su];defend, protect;mamo(ru), mo(ri);defend, protect
+情;S3;11;3;Kokoro, Risshinben, Shitagokoro;joo, [sei];feeling, emotion;nasa(ke);sympathy, compassion
+報;S3;12;3;Tsuchi, Tsuchihen;hoo;news, report;muku(iru);reward, compensate
+探;S3;11;3;Tehen;tan;search, look for;sagu(ru), saga(su);search, look for
+観;S3;18;3;Miru;kan;look, appearance;-;-
+希;S3;7;2;Haba, Kinben;ki;Greece;-;-
+望;S3;11;3;Tsuki, Tsukihen;boo, moo;full moon;nozo(mu);desire
+告;S3;7;3;Kuchi, Kuchihen;koku;tell, inform, announce, proclaim;tsu(geru);tell, inform, announce, proclaim
+詳;S3;13;1;Gon, Gonben;shoo;full, detailed, minute, accurate;kuwa(shii);full, detailed, minute, accurate
+丸;S3;3;2;Ten;gan;full (month);maru, maru(i), maru(meru);full (month)
+敬;S3;12;2;Nobun;kei;respect, honor, revere;uyama(u);respect, honor, revere, venerate
+召;S3;5;2;Kuchi, Kuchihen;shoo;call, send for;me(su);call, send for
+存;S3;6;3;Ko, Kohen;son, zon;know, be aware of, be acquainted with;-;-
+案;S3;10;1;Ki, Kihen;an;proposition, suggestion, plan, idea;-;-
+伺;S3;7;2;Hito, Ninben, Hitoyane;shi;visit;ukaga(u);visit
+参;S3;8;3;Mu;san;three;mai(ru);go
+議;S3;20;3;Gon, Gonben;gi;consultation, deliberation, debate;-;-
+務;S3;11;3;Chikara;mu;serve, fill a post, serve under;tsuto(meru), tsuto(maru);serve, fill a post, serve under
+戻;S3;7;3;To, Tokanmuri;rei;return, turn back;modo(ru), modo(su);return, turn back
+任;S3;6;3;Hito, Ninben, Hitoyane;nin;duty, responsibility;maka(seru), maka(su);entrust to, leave to 
+宅;S3;6;3;Ukanmuri;taku;home, house, residence;-;-
+府;S3;8;2;Madare;fu;urban prefecture;-;-
+県;S3;9;2;Me, Mehen;ken;prefecture;-;-
+村;S3;7;2;Ki, Kihen;son;village, hamlet;mura;village, hamlet
+町;S3;7;4;Ta, Tahen;choo;town;machi;town
+区;S3;4;2;Kakushigamae;ku;ward, district, section;-;-
+号;S3;5;3;Kuchi, Kuchihen;goo;number;-;-
+里;S3;7;0;Sato, Satohen;ri;village;sato;village, hamlet, the country
+角;S3;7;2;Tsuno, Tsunohen;kaku;angle;kado, tsuno;corner, angle
+祭;S3;11;2;Shimesu, Shimesuhen;sai;offer prayers;matsu(ru), matsu(ri);offer prayers
+定;S3;8;3;Ukanmuri;tei, joo;deciding. be decided, be settled, quiet down;sada(meru), sada(maru), sada(ka);be decided, be settled, quiet down. establish, lay down, stipulate
+有;S3;6;4;Tsuki, Tsukihen;yuu, u;possession. being, existence ;a(ru);there is, have, exist
+神;S3;9;3;Shimesu, Shimesuhen;shin, jin;god, deity;kami, [kan], [koo];God, god, Allah
+焼;S3;12;2;Hi, Hihen, Renga;shoo;burning;ya(ku), ya(keru);set fire to, burn, fire
+氷;S3;5;2;Mizu, Sanzui, Shitamizu;hyoo;freeze;koori, hi;ice
+踊;S3;14;2;Ashi, Ashihen;yoo;dance;odo(ru), odo(ri);dance
+衣;S3;6;2;Koromo, Koromohen;i;garment;koromo;clothes, robe
+緑;S3;14;2;Ito, Itohen;ryoku, [roku];green, verdure;midori;green, verdure
+刻;S3;8;3;Katana, Rittoo;koku;time;kiza(mu);cut fine, chop up
+違;S3;13;3;Shinnyoo;i;differ, vary;chiga(u), chiga(eru);differ, vary
+反;S3;4;3;Mata;han, [hon], [tan];antithesis, opposite, antagonism;so(ru), so(rasu);warp
+対;S3;7;3;Sun;tai, tsui;the opposite;-;-
+途;S3;10;3;Shinnyoo;to;way, road;-;-
+申;S3;5;3;Ta, Tahen;shin;have the honor to;moo(su);have the honor to
+訳;S3;11;1;Gon, Gonben;yaku;translation;wake;meaning, sense
+踏;S3;15;1;Ashi, Ashihen;too;step on, trample on, stamp on;fu(mu), fu(maeru);step on, trample on, stamp on
+呼;S3;8;3;Kuchi, Kuchihen;ko;call, call out to;yo(bu);call, call out to
+叱;S3;5;0;Kuchi, Kuchihen;shitsu;scold, reprove;shika(ru);scold, reprove
+泣;S3;8;1;Mizu, Sanzui, Shitamizu;kyuu;cry, weep, wail, moan;na(ku);cry, weep, wail, moan
+刺;S3;8;2;Katana, Rittoo;shi;calling card;sa(su), sa(saru);pierce, thrust, stab, prick
+笑;S3;10;3;Take, Takekanmuri;shoo;laughter;wara(u), e(mu);laugh, smile
+工;S3;3;4;E, Takumihen;koo, ku;artisan, mechanic;-;-
+係;S3;9;3;Hito, Ninben, Hitoyane;kei;duty;kaka(ru), kakari;duty
+輸;S3;16;2;Kuruma, Kurumahen;yu;send, transport;-;-
+産;S3;11;3;Umareru;san;childbirth;u(mu), u(mareru), ubu;bear, give birth to, breed, spawn
+機;S3;16;3;Ki, Kihen;ki;opportunity;hata;loom
+械;S3;11;2;Ki, Kihen;kai;fetters;-;-
+薄;S3;16;2;Kusakanmuri;haku;thin, weak (tea), light, pale, faint, scanty, ungenerous ;usu(i), usu(meru), usu(maru), usu(ragu), usu(reru);thin, weak (tea), light, pale, faint, scanty, ungenerous.
+厚;S3;9;2;Gandare;koo;very thick;atsu(i);thick
+例;S3;8;3;Hito, Ninben, Hitoyane;rei;custom, usage, precedent;tato(eru);compare to, speak figuratively, illustrate 
+資;S3;13;3;Kai, Kaihen;shi;resources, capital, funds;-;-
+検;S3;12;1;Ki, Kihen;ken;investigation;-;-
+査;S3;9;2;Ki, Kihen;sa;investigate;-;-
+種;S3;14;3;Nogi, Nogihen;shu;kind, class, variety;tane;seed, kernel
+類;S3;18;3;Oogai;rui;kind, variety, class, genus;tagu(i);kind, sort, class
+頼;S3;16;3;Oogai;rai;ask, request, entreat, appeal;tano(mu), tano(moshii), tayo(ru);ask, request, entreat, appeal
+普;S3;12;2;Nichi, Nichihen;fu;widely, generally;-;-
+及;S3;3;1;No;kyuu;exert, exercise, cause;oyo(bu), oyo(bi), oyo(bosu);exert, exercise, cause
+路;S3;13;3;Ashi, Ashihen;ro;road, route, path;ji;route, road
+就;S3;12;1;Dainomageashi;shuu, [ju];settle in (place);tsu(ku), tsu(keru);settle in (place)
+職;S3;18;3;Mimi, Mimihen;shoku;employment, work, job, office;-;-
+卒;S3;8;2;Juu;sotsu;graduate, soldier, private;-;-
+際;S3;14;3;Kozatohen;sai;time, occasion;kiwa;side, edge, verge 
+交;S3;6;3;Nabebuta;koo;coming and going, association;maji(waru), maji(eru), maji(ru), ma(zaru), ma(zeru), ka(u), ka(wasu);associate with, mingle with
+躍;S3;21;1;Ashi, Ashihen;yaku;dance;odo(ru);dance
+勝;S3;12;3;Chikara;shoo;victory, beauty spot;ka(tsu), masa(ru);win
+負;S3;9;3;Kai, Kaihen;fu;negative, minus;ma(keru), ma(kasu), o(u);be defeated
+談;S3;15;3;Gon, Gonben;dan;conversation, talk;-;-
+陸;S3;11;2;Kozatohen;riku;land;-;-
+勤;S3;12;3;Chikara;kin, [gon];be fit for, be equal to, function properly;tsuto(meru), tsuto(maru);be fit for, be equal to, function properly
+夢;S3;13;3;Yuube;mu;dream, vision;yume;dream, vision
+可;S3;5;3;Kuchi, Kuchihen;ka;good, passable;-;-
+能;S3;10;3;Niku, Nikuzuki;noo;ability, talent, skill, capacity;-;-
+祝;S3;9;2;Shimesu, Shimesuhen;shuku, [shuu];celebration, congratulations, ;iwa(u);celebration, festival, congratulations 
+格;S3;10;3;Ki, Kihen;kaku, [koo];status, rank;-;-
+乾;S3;11;2;Otsu, Otsunyoo;kan;heaven;kawa(ku), kawa(kasu);dry, dry up
+久;S3;3;2;No;kyuu, [ku];long, long continued, an old (story);hisa(shii);long, long continued, an old (story)
+歓;S3;15;1;Akubi;kan;joy, pleasure;-;-
+撮;S3;15;1;Tehen;satsu;pick, pinch;to(ru);take (pictures)
+影;S3;15;1;Sanzukuri;ei;shadow;kage;light
+季;S3;8;2;Ko, Kohen;ki;season;-;-
+節;S3;13;1;Take, Takekanmuri;setsu, [sechi];season, period, occasion, time;fushi;joint, knuckle
+城;S3;9;2;Tsuchi, Tsuchihen;joo;castle;shiro;castle, citadel
+登;S3;12;3;Hatsugashira;too, to;rise, ascend, go up, climb;nobo(ru);rise, ascend, go up, climb
+走;S3;7;4;Hashiru, Soonyoo;soo;run, rush, flee;hashi(ru);run, rush, flee
+富;S3;12;3;Ukanmuri;fu, [fuu];enrich;to(mu), tomi;be rich, become wealthy
+士;S3;3;1;Samurai;shi;samurai;-;-
+飛;S3;9;3;Tobu;hi;fly;to(bu), to(basu);fly
+幹;S3;13;1;Ichijuu;kan;(tree) trunk;miki;(tree) trunk
+韓;S3;18;0;Nameshigawa;kan;Korea;-;-
+第;S3;11;1;Take, Takekanmuri;dai;residence. number (1, 2, 3, etc.);-;-
+考;S3;6;4;Oikanmuri;koo;thought, consideration;kanga(eru);think, consider, believe, suspect
+保;S3;9;1;Hito, Ninben, Hitoyane;ho;guarantee;tamo(tsu);keep, preserve, hold, retain, maintain
+翌;S4;11;2;Hane;yoku;next, following;-;-
+築;S4;16;2;Take, Takekanmuri;chiku;build, construct;kizu(ku);build, construct
+構;S4;14;3;Ki, Kihen;koo;build;kama(eru), kama(u);build
+造;S4;10;2;Shinnyoo;zoo;make, create, manufacture, prepare, draw up, write, compose;tsuku(ru);make, create, manufacture, prepare, draw up, write, compose
+設;S4;11;2;Gon, Gonben;setsu;prepare, provide;moo(keru);prepare, provide
+柱;S4;9;2;Ki, Kihen;chuu;cylinder, supports for strings on a lute;hashira;pillar, column, post, pole
+庫;S4;10;2;Madare;ko, [ku];storehouse;-;-
+畳;S4;12;2;Ta, Tahen;joo;mat counter;tata(mu), tatami;fold, fold up, furl, shut up, shut
+隅;S4;12;2;Kozatohen;guu;corner;sumi;corner, nook
+蔵;S4;15;2;Kusakanmuri;zoo;storehoure, warehouse, godown;kura;storehoure, warehouse, godown
+橋;S4;16;2;Ki, Kihen;kyoo;bridge;hashi;bridge
+渡;S4;12;3;Mizu, Sanzui, Shitamizu;to;cross, ford, ferry;wata(ru), wata(su);cross, ford, ferry
+差;S4;10;3;E, Takumihen;sa;difference, variation;sa(su);raise (the hands)
+警;S4;19;3;Gon, Gonben;kei;admonish, warn, prohibit;-;-
+察;S4;14;3;Ukanmuri;satsu;presume, surmise;-;-
+署;S4;13;2;Amigashira;sho;government office, (police) station;-;-
+防;S4;7;2;Kozatohen;boo;defend, protect;fuse(gu);defend, protect
+符;S4;11;2;Take, Takekanmuri;fu;sign, mark, tally;-;-
+札;S4;5;2;Ki, Kihen;satsu;paper money, counter for bonds, etc;fuda;tag, placard
+改;S4;7;2;Nobun;kai;change, modify, convert;arata(meru), arata(maru);change, modify, convert
+算;S4;14;2;Take, Takekanmuri;san;divining (block);-;-
+精;S4;14;3;Kome, Komehen;sei, [shoo];spirit, ghost, fairy;-;-
+停;S4;11;2;Hito, Ninben, Hitoyane;tei;stopping;-;-
+換;S4;12;2;Tehen;kan;change, turn, convert, exchange, renew, substitute, replace;ka(eru), ka(waru);change, turn, convert, exchange, renew, substitute, replace
+禁;S4;13;2;Shimesu, Shimesuhen;kin;prohibition, ban, embargo;-;-
+煙;S4;13;3;Hi, Hihen, Renga;en;smoke;kemu(ru), kemuri, kemu(i);smoke, smolder, be smoky
+預;S4;13;2;Oogai;yo;place in custody, deposit, leave with, entrust with, commit to, give ;azu(keru), azu(karu);place in custody, deposit, leave with, entrust with, commit to, give.
+常;S4;11;3;Haba, Kinben;joo;normal conditions, regular course of events;tsune, toko;normal conditions, regular course of events
+非;S4;8;3;Arazu;hi;mistake;-;-
+清;S4;11;2;Mizu, Sanzui, Shitamizu;sei, [shoo];China, Manchu (dynasty);kiyo(i), kiyo(maru), kiyo(meru);purify, cleanse
+掃;S4;11;2;Tehen;soo;sweep;ha(ku);sweep
+綿;S4;14;2;Ito, Itohen;men;cotton;wata;cotton, cotton wool
+募;S4;12;2;Chikara;bo;gather (contributions);tsuno(ru);gather (contributions)
+求;S4;7;3;Mizu, Sanzui, Shitamizu;kyuu;want, wish for, request, demand;moto(meru);want, wish for, request, demand
+承;S4;8;2;Te;shoo;receive, accept, take, get, obtain;uketamawa(ru);hear, listen to, be informed 
+玉;S4;5;2;Tama, Oo;gyoku;gem, jewel, precious stone, jade;tama;ball, bowl, sphere, bulb
+個;S4;10;2;Hito, Ninben, Hitoyane;ko;individual;-;-
+缶;S4;6;2;Hotogi;kan;can;-;-
+詰;S4;13;2;Gon, Gonben;kitsu;be pressed in, be packed, become close;tsu(meru), tsu(maru), tsu(mu);be pressed in, be packed, become close
+沸;S4;8;2;Mizu, Sanzui, Shitamizu;futsu;boil, get hot;wa(ku), wa(kasu);boil, get hot
+軟;S4;11;2;Kuruma, Kurumahen;nan;soft;yawa(raka), yawa(rakai);soft
+等;S4;12;3;Take, Takekanmuri;too;class, grade, degree;hito(shii);equal, similar, alike, equivalent
+巻;S4;9;2;Onore;kan;volume, book, part;ma(ku), maki;roll up
+混;S4;11;2;Mizu, Sanzui, Shitamizu;kon;mix;ma(jiru), ma(zaru), ma(zeru), ko(mu);mix, blend, mingle
+過;S4;12;3;Shinnyoo;ka;excess;su(giru), su(gosu), ayama(tsu), ayama(chi);pass, go past
+伸;S4;7;2;Hito, Ninben, Hitoyane;shin;stretching;no(biru), no(basu), no(beru);extend, lengthen, stretch, spread
+破;S4;10;3;Ishi, Ishihen;ha;tear, rip, rend;yabu(ru), yabu(reru);tear, rip, rend
+助;S4;7;3;Chikara;jo;help, rescue;tasu(keru), tasu(karu), suke;be saved, be rescued, survive
+燃;S4;16;2;Hi, Hihen, Renga;nen;burn;mo(eru), mo(yasu), mo(su);burn, blaze, glow
+編;S4;15;2;Ito, Itohen;hen;compilation, editing;a(mu);knit, plait, braid, net, weave, twist, crochet
+示;S4;5;3;Shimesu, Shimesuhen;ji, shi;indication;shime(su);show, indicate, point out, give (an example), signify, display, express
+未;S4;5;3;Ki, Kihen;mi;not yet. un-, not;-;-
+印;S4;6;2;Fushizukuri, Warifu;in;seal, stamp, mark;shirushi;sign, mark
+刷;S4;8;2;Katana, Rittoo;satsu;print;su(ru);print
+除;S4;10;3;Kozatohen;jo, [ji];division (in math);nozo(ku);remove, abolish, cancel
+販;S4;11;2;Kai, Kaihen;han;sell, trade;-;-
+支;S4;4;3;Shi;shi;branch;sasa(eru);support, maintain, sustain, hold
+払;S4;5;3;Tehen;futsu;clear out, sweep away, wipe off, brush off, drive away, banish;hara(u);clear out, sweep away, wipe off, brush off, drive away, banish
+額;S4;18;2;Oogai;gaku;tablet, plaque, framed picture;hitai;forehead, brow
+超;S4;12;2;Hashiru, Soonyoo;choo;super-, ultra-;ko(eru), ko(su);cross
+収;S4;4;3;Mata;shuu;income;osa(meru), osa(maru);obtain, reap
+費;S4;12;3;Kai, Kaihen;hi;expenses, cost;tsui(yasu), tsui(eru);spend, consume, waste. become less
+税;S4;12;2;Nogi, Nogihen;zei;tax, duty;-;-
+型;S4;9;2;Tsuchi, Tsuchihen;kei;model, mold, matrix, impression;kata;model, mold, matrix, impression
+状;S4;7;3;Inu, Kemonohen;joo;condition, circumstances;-;-
+舞;S4;15;3;Maiashi;bu;dance;ma(u), mai;dance
+令;S4;5;2;Hito, Ninben, Hitoyane;rei;order, command;-;-
+昭;S4;9;1;Nichi, Nichihen;shoo;clear, bright;-;-
+御;S4;12;3;Gyooninben;gyo, go;imperial honorary prefix;on;honorific prefixes
+返;S4;7;3;Shinnyoo;hen;answer;kae(su), kae(ru);go back
+頂;S4;11;3;Oogai;choo;head;itada(ku), itadaki;be crowned with, wear
+拝;S4;8;2;Tehen;hai;worship;oga(mu);worship, pray to, adore, reverence
+殿;S4;13;2;Rumata;den, ten;hall, mansion, palace, temple, rear guard ;tono, dono;mister. lord
+氏;S4;4;1;Uji;shi;Mr.;uji;clan
+末;S4;5;3;Ki, Kihen;matsu, batsu;end;sue;end, close
+整;S4;16;1;Nobun;sei;arranging;totono(eru), totono(u);prepare, arrange
+現;S4;11;3;Tama, Oo;gen;present, exciting, actual;arawa(reru), arawa(su);appear, emerge, come in sight, show up
+貨;S4;11;2;Kai, Kaihen;ka;property, freight, goods;-;-
+硬;S4;12;2;Ishi, Ishihen;koo;hard, solid;kata(i);hard, solid
+犯;S4;5;3;Inu, Kemonohen;han;offense, crime;oka(su);commit, sin against
+駐;S4;15;2;Uma, Umahen;chuu;stop, reside in;-;-
+断;S4;11;3;Kin, Onozukuri;dan;decision, judgment;ta(tsu), kotowa(ru);sever, cut off
+盗;S4;11;3;Sara;too;thief;nusu(mu);steal, rob, pilfer
+触;S4;13;2;Tsuno, Tsunohen;shoku;touching;fu(reru), sawa(ru);touch, feel, hit, strike, graze
+挟;S4;9;2;Tehen;kyoo;put between, hold between;hasa(mu), hasa(maru);put between, hold between
+責;S4;11;3;Kai, Kaihen;seki;condemn, blame, censure, criticize, take to task;se(meru);condemn, blame, censure, criticize, take to task
+担;S4;8;2;Tehen;tan;carry;katsu(gu), nina(u);shoulder (a load). carry on the shoulder
+血;S4;6;2;Chi;ketsu;blood;chi;blood, consanguinity
+液;S4;11;2;Mizu, Sanzui, Shitamizu;eki;liquid, fluid, juice, sap, secretion;-;-
+帯;S4;10;2;Haba, Kinben;tai;belt;o(biru), obi;belt, sash, girdle, band
+故;S4;9;1;Nobun;ko;reason, cause;yue;reason, cause
+療;S4;17;2;Yamaidare;ryoo;heal, cure;-;-
+救;S4;11;1;Nobun;kyuu;save, help, rescue, relieve (suffering);suku(u);save, help, rescue, relieve (suffering)
+命;S4;8;3;Kuchi, Kuchihen;mei, myoo;command, decree;inochi;life
+戦;S4;13;3;Hokogamae, Hokozukuri;sen;war;ikusa, tataka(u);wage war
+録;S4;16;2;Kane, Kanehen;roku;record;-;-
+賞;S4;15;2;Kai, Kaihen;shoo;prize, reward, praise;-;-
+秒;S4;9;2;Nogi, Nogihen;byoo;one-sixteenth of a minute (of time, latitude, degree, etc.);-;-
+測;S4;12;2;Mizu, Sanzui, Shitamizu;soku;measure, gauge, weigh;haka(ru);measure, gauge, weigh
+順;S4;12;2;Oogai;jun;order;-;-
+投;S4;7;3;Tehen;too;throw;na(geru);throw, hurl
+技;S4;7;2;Tehen;gi;art, craft;waza;deed, act, work, art, trick, performance
+柔;S4;9;2;Ki, Kihen;juu, nyuu;weakness;yawa(raka), yawa(rakai);soft, tender, plastic
+恋;S4;10;2;Kokoro, Risshinben, Shitagokoro;ren;be in love;ko(u), koi, koi(shii);be in love. love, tender sentiment. dear, beloved, darling
+愛;S4;13;3;Kokoro, Risshinben, Shitagokoro;ai;love, affection, favorite;-;-
+寂;S4;11;1;Ukanmuri;jaku, [seki];quietly;sabi, sabi(shii), sabi(reru);patina, antique look
+悲;S4;12;3;Kokoro, Risshinben, Shitagokoro;hi;grieve, be sad, deplore, mourn for, regret ;kana(shii), kana(shimu);grieve, be sad, deplore, mourn for, regret. sad, pathetic, plaintive 
+嬉;S4;-;-;-;-;-;-;-
+喜;S4;12;3;Kuchi, Kuchihen;ki;rejoice, be glad, be pleased;yoroko(bu);rejoice, be glad, be pleased
+悩;S4;10;2;Kokoro, Risshinben, Shitagokoro;noo;distress, illness;naya(mu), naya(masu);worry, be troubled, be afflicted, be in pain. annoy, embarrass, afflict, worry, oppress, torment 
+怒;S4;9;3;Kokoro, Risshinben, Shitagokoro;do;become angry, be offended, become excited ;ika(ru), oko(ru);become angry, be offended, become excited
+欲;S4;11;3;Akubi;yoku;covetousness;hos(suru), ho(shii);desire, want
+涙;S4;10;2;Mizu, Sanzui, Shitamizu;rui;tear, sympathy;namida;tear, sympathy
+恥;S4;10;3;Kokoro, Risshinben, Shitagokoro;chi;shame, dishonor, disgrace, humiliation, insult ;ha(jiru), haji, ha(jirau), ha(zukashii);shame, dishonor, disgrace, humiliation, insult.
+貯;S4;12;2;Kai, Kaihen;cho;store, lay in stock, save, keep, wear (a mustache);-;-
+列;S4;6;3;Katana, Rittoo;retsu;row, rank, tier, file, column, line;-;-
+酔;S4;11;1;Tori, Torihen;sui;get drunk;yo(u);get drunk
+永;S4;5;2;Mizu, Sanzui, Shitamizu;ei;long, lengthy;naga(i);long, lengthy
+幸;S4;8;3;Ichijuu;koo;happiness, fortune;saiwa(i), sachi, shiawa(se);happiness
+福;S4;13;3;Shimesu, Shimesuhen;fuku;fortune, blessing, luck, wealth;-;-
+協;S4;8;2;Juu;kyoo;cooperation;-;-
+将;S4;10;2;Sun;shoo;commander, general, admiral;-;-
+贈;S4;18;2;Kai, Kaihen;zoo, [soo];present (something);oku(ru);send, give to, award to, confer on
+老;S4;6;3;Oikanmuri;roo;aging, old age, old people;o(iru), fu(keru);grow old
+婦;S4;11;3;Onna, Onnahen;fu;woman;-;-
+姓;S4;8;2;Onna, Onnahen;sei, shoo;surname, family name;-;-
+齢;S4;17;2;Ha, Hahen;rei;age;-;-
+仲;S4;6;2;Hito, Ninben, Hitoyane;chuu;relation, relationship;naka;relation, relationship
+他;S4;5;3;Hito, Ninben, Hitoyane;ta;another, the other, others, another thing;hoka;some other place
+再;S4;6;2;Doogamae;sai, [sa];again, twice;futata(bi);again, twice
+突;S4;8;3;Ana, Anakanmuri;totsu;protruding, thrusting;tsu(ku);thrust, pierce, spear, stab, prick
+各;S4;6;2;Kuchi, Kuchihen;kaku;each;onoono;each, every, either, respectively
+緒;S4;14;3;Ito, Itohen;sho, [cho];beginning, inception;o;cord, strap, thong
+級;S4;9;1;Ito, Itohen;kyuu;grade, class, rank;-;-
+講;S4;17;2;Gon, Gonben;koo;lecture, club, association ;-;-
+義;S4;13;1;Hitsuji;gi;justice, righteousness, morality;-;-
+解;S4;13;3;Tsuno, Tsunohen;kai, ge;explanation, notes;to(ku), to(kasu), to(keru);untie, undo, loosen, unpack
+得;S4;11;3;Gyooninben;toku;profit, advantage, benefit;e(ru), u(ru);get, acquire, acquire, find, earn, win, gain, receive
+努;S4;7;3;Chikara;do;serve, fill a post, serve under;tsuto(meru);serve, fill a post, serve under
+復;S4;12;2;Gyooninben;fuku;return to, revert to, be restored to, resume (one's duties);-;-
+補;S4;12;2;Koromo, Koromohen;ho;assistant, learner;ogina(u);supply, make good, make up (losses), stop (a gap), offset, piece out
+効;S4;8;2;Chikara;koo;efficacy, benefit;ki(ku);be effective
+幼;S4;5;2;Itogashira;yoo;infancy, childhood;osana(i);infant
+児;S4;7;2;Hitoashi;ji, [ni];child;-;-
+童;S4;12;2;Tatsu;doo;child;warabe;child
+徒;S4;10;3;Gyooninben;to;party, set, gang, companions;-;-
+板;S4;8;2;Ki, Kihen;han, ban;board, plank;ita;board, plank
+規;S4;11;3;Miru;ki;standard;-;-
+則;S4;9;2;Katana, Rittoo;soku;follow (precedent), be based on, go by;-;-
+期;S4;12;3;Tsuki, Tsukihen;ki, [go];time, date, period, term;-;-
+導;S4;15;2;Sun;doo;leading;michibi(ku);guide, lead, conduct, usher
+筆;S4;12;2;Take, Takekanmuri;hitsu;writing brush, paintbrush;fude;writing brush, paintbrush
+点;S4;9;3;Hi, Hihen, Renga;ten;point;-;-
+易;S4;8;3;Nichi, Nichihen;i, eki;easiness;yasa(shii);easy, simple, light
+倍;S4;10;2;Hito, Ninben, Hitoyane;bai;double, twice;-;-
+率;S4;11;1;Gen;sotsu, ritsu;rate, percentage;hiki(iru);lead, spearhead (a group), command (troops)
+均;S4;7;2;Tsuchi, Tsuchihen;kin;to level, to average;-;-
+成;S4;6;3;Hokogamae, Hokozukuri;sei, [joo];become, get or grow (old), form (a part of);na(ru), na(su);become, get or grow (old), form (a part of)
+績;S4;17;2;Ito, Itohen;seki;exploits, unreeling cocoons;-;-
+評;S4;12;1;Gon, Gonben;hyoo;criticism, comment ;-;-
+価;S4;8;1;Hito, Ninben, Hitoyane;ka;price, cost, value, worth;atai;price, cost, value, worth
+移;S4;11;2;Nogi, Nogihen;i;move, change, shift, pass into, drift;utsu(ru), utsu(su);move, change, shift, pass into, drift
+団;S4;6;2;Kunigamae;dan, [ton];body, group, corps, gang, party, company, troupe;-;-
+程;S4;12;3;Nogi, Nogihen;tei;degree;hodo;limits, limit, extent, degree
+欧;S4;8;2;Akubi;oo;Europe;-;-
+船;S4;11;3;Fune, Funehen;sen;ship;fune, [funa];boat, ship, vessel, steamer, liner, barge
+舟;S4;6;2;Fune, Funehen;shuu;boat;fune, [funa];boat, ship, vessel, steamer, liner, barge
+加;S4;5;3;Chikara;ka;addition, increase;kuwa(eru), kuwa(waru);join in
+装;S4;12;2;Koromo, Koromohen;soo, shoo;dress;yosoo(u);dress
+靴;S4;13;3;Kakunokawa, Kawahen;ka;shoes;kutsu;shoes, boots
+芸;S4;7;2;Kusakanmuri;gei;art, craft;-;-
+劇;S4;15;2;Katana, Rittoo;geki;drama, play;-;-
+演;S4;14;3;Mizu, Sanzui, Shitamizu;en;perform, play, act, enact, render, stage, put on;-;-
+孫;S4;10;2;Ko, Kohen;son;descendants;mago;grandchild
+抱;S4;8;3;Tehen;hoo;hug, embrace, hold in the arms;da(ku), ida(ku), kaka(eru);hug, embrace, hold in the arms
+似;S4;7;3;Hito, Ninben, Hitoyane;ji;resemble;ni(ru);resemble
+珍;S4;9;2;Tama, Oo;chin;rare, curious, strange;mezura(shii);new, novel, rare, strange, curious, unusual
+仏;S4;4;2;Hito, Ninben, Hitoyane;butsu;Buddha, Buddhism;hotoke;Buddha
+祈;S4;8;2;Shimesu, Shimesuhen;ki;pray;ino(ru);pray
+球;S4;11;3;Tama, Oo;kyuu;globe, sphere, ball;tama;ball, bulb, bowl, sphere
+陽;S4;12;3;Kozatohen;yoo;young principle, positive;-;-
+宇;S4;6;2;Ukanmuri;u;eaves;-;-
+宙;S4;8;1;Ukanmuri;chuu;air, space, mid-air, sky, heaven;-;-
+巨;S4;5;2;Hakogamae;kyo;big, large, great;-;-
+河;S4;8;2;Mizu, Sanzui, Shitamizu;ka;river, stream;kawa;river, stream
+候;S4;10;3;Hito, Ninben, Hitoyane;koo;season, weather;sooroo;classical verbal ending equivalent to colloquial
+底;S4;8;2;Madare;tei;bottom, base;soko;bottom
+岸;S4;8;2;Yama, Yamahen;gan;bank, shore, coast, brink;kishi;bank, shore, coast, brink
+坂;S4;7;2;Tsuchi, Tsuchihen;han;incline, slope, hill;saka;incline, slope, hill
+環;S4;17;1;Tama, Oo;kan;ring;-;-
+境;S4;14;2;Tsuchi, Tsuchihen;kyoo, [kei];boundary;sakai;boundary, border, frontier
+論;S4;15;3;Gon, Gonben;ron;argument;-;-
+諸;S4;15;2;Gon, Gonben;sho;many, several, various, all;-;-
+肯;S4;8;2;Niku, Nikuzuki;koo;agree to, consent, comply with, undertake;-;-
+否;S4;7;3;Kuchi, Kuchihen;hi;no, noes;ina;no, nay
+基;S4;11;1;Tsuchi, Tsuchihen;ki;radical (in chemistry);moto, motoi;basis, foundation, origin
+比;S4;4;2;Kuraberu;hi;ratio;kura(beru);compare, balance, contrast
+較;S4;13;1;Kuruma, Kurumahen;kaku;compare, balance, contrast;-;-
+逆;S4;9;2;Shinnyoo;gyaku;reverse, inverse, opposite, unnatural;saka, saka(rau);oppose, act contrary to
+章;S4;11;2;Tatsu;shoo;chapter;-;-
+述;S4;8;2;Shinnyoo;jutsu;state, speak, relate;no(beru);state, speak, recite, relate, mention
+官;S4;8;3;Ukanmuri;kan;the Government, the authorities;-;-
+庁;S4;5;2;Madare;choo;government office;-;-
+省;S4;9;2;Me, Mehen;sei, shoo;ministry, department;kaeri(miru), habu(ku);look back
+農;S4;13;2;Shinnotatsu;noo;agriculture;-;-
+商;S4;11;3;Kuchi, Kuchihen;shoo;trade, merchant, quotient;akina(u);sell, handle, trade in 
+労;S4;7;3;Chikara;roo;labor, toil, trouble;-;-
+閣;S4;14;1;Mongamae;kaku;tower, tall building, palace, cabinet (of a government);-;-
+総;S4;14;2;Ito, Itohen;soo;whole, all, general, gross, total, full;-;-
+臣;S4;7;2;Shin;shin, jin;retainer, subject;-;-
+象;S4;12;2;Inoko;shoo, zoo;image;-;-
+融;S4;16;1;Mushi, Mushihen;yuu;dissolve, melt;-;-
+民;S4;5;3;Uji;min;people, nation, subjects;tami;people, nation, subjects
+共;S5;6;3;Hachi;kyoo;both;tomo;both
+処;S5;5;3;Suinyoo;sho;manage, deal with;-;-
+余;S5;7;3;Hito, Ninben, Hitoyane;yo;I, myself, the writer;ama(ru), ama(su);remain, be in excess, be too many. leave, spare, save 
+像;S5;14;2;Hito, Ninben, Hitoyane;zoo;image, statue, figure, picture, portrait;-;-
+管;S5;14;2;Take, Takekanmuri;kan;pipe, tube;kuda;pipe, tube
+囲;S5;7;2;Kunigamae;i;enclosure;kako(mu), kako(u);enclose, surround, encircle
+寄;S5;11;3;Ukanmuri;ki;let approach, bring near;yo(ru), yo(seru);let approach, bring near
+坊;S5;7;0;Tsuchi, Tsuchihen;boo, [boQ];priest's residence;-;-
+凍;S5;10;2;Nisui;too;freeze, be frozen over;koo(ru), kogo(eru);freeze, be frozen over
+誤;S5;14;3;Gon, Gonben;go;err, be mistaken;ayama(ru);err, be mistaken
+曇;S5;16;2;Nichi, Nichihen;don;cloud up;kumo(ru);cloud up
+張;S5;11;1;Yumi, Yumihen;choo;counter for bows and stringed instruments;ha(ru);put up (a tent)
+旧;S5;5;2;Nichi, Nichihen;kyuu;old things;-;-
+喫;S5;12;2;Kuchi, Kuchihen;kitsu;eat, drink, smoke;-;-
+替;S5;12;2;Hirabi;tai;change, turn, convert, exchange, renew, substitute, replace ;ka(eru), ka(waru);change, turn, convert, exchange, renew, substitute, replace. relieve
+恵;S5;10;1;Kokoro, Risshinben, Shitagokoro;kei, e;blessing, grace, favor;megu(mu);bless
+賢;S5;16;2;Kai, Kaihen;ken;wisdom, cleverness;kashiko(i);wise, intelligent
+勇;S5;9;2;Chikara;yuu;bravery,courage, heroism;isa(mu);cheer up, be in high spirits
+複;S5;14;2;Koromo, Koromohen;fuku;double, compound, composite, multiple;-;-
+封;S5;9;2;Sun;fuu, hoo;seal;-;-
+筒;S5;12;2;Take, Takekanmuri;too;pipette, tube;tsutsu;pipe, tube, case, gun barrel, sleeve, well curb
+許;S5;11;3;Gon, Gonben;kyo;permit, approve;yuru(su);permit, approve
+限;S5;9;3;Kozatohen;gen;limit, restrict, confine;kagi(ru);limit, restrict, confine
+灯;S5;6;2;Hi, Hihen, Renga;too;lamp, light;hi;a light
+尊;S5;12;2;Sun;son;value, prize, esteem;tatto(i), tooto(i), tatto(bu), tooto(bu);value, prize, esteem
+詞;S5;12;2;Gon, Gonben;shi;words;-;-
+副;S5;11;2;Katana, Rittoo;fuku;duplicate, copy;-;-
+志;S5;7;1;Kokoro, Risshinben, Shitagokoro;shi;record;kokoroza(su), kokorozashi;plan, intend, aim at, aspire to, resolve, determine. will, intention, motive
+司;S5;5;1;Kuchi, Kuchihen;shi;official;-;-
+幅;S5;12;2;Haba, Kinben;fuku;hanging scroll, picture;haba;width, breadth, range
+拡;S5;8;1;Tehen;kaku;expand, enlarge, widen;-;-
+傾;S5;13;2;Hito, Ninben, Hitoyane;kei;lean, incline, tilt, list, tip, careen, lurch;katamu(ku), katamu(keru);incline toward, tilt, slant, slope, lurch, heel over
+件;S5;6;3;Hito, Ninben, Hitoyane;ken;matter, case, item;-;-
+条;S5;7;1;Ki, Kihen;joo;article, clause, item;-;-
+仮;S5;6;1;Hito, Ninben, Hitoyane;ka, [ke];(Buddhist) vanity;kari;tempory, provisional
+著;S5;11;2;Kusakanmuri;cho;literary work;arawa(su), ichijiru(shii);write, publish. remarkable, phenomenal
+版;S5;8;2;Katahen;han;printing block or plate;-;-
+判;S5;7;3;Katana, Rittoo;han, ban;stamp, seal;-;-
+批;S5;7;1;Tehen;hi;strike;-;-
+操;S5;16;1;Tehen;soo;manipulate, operate, steer;misao, ayatsu(ru);manipulate, operate, steer
+腰;S5;13;2;Niku, Nikuzuki;yoo;hips, waist, loins, pelvic region;koshi;hips, waist, loins, pelvic region
+吸;S5;6;3;Kuchi, Kuchihen;kyuu;inhale;su(u);inhale
+胸;S5;10;2;Niku, Nikuzuki;kyoo;chest, breast, bosom;mune, [muna];chest, breast, bosom
+栄;S5;9;2;Ki, Kihen;ei;prosperity, glory, splendor, honor;saka(eru), ha(e), ha(eru);prosper, flourish, thrive
+胃;S5;9;2;Niku, Nikuzuki;i;stomach;-;-
+抜;S5;7;3;Tehen;batsu;extract, unlock, pull out;nu(ku), nu(keru), nu(kasu), nu(karu);extract, unlock, pull out
+磨;S5;16;2;Ishi, Ishihen;ma;polish, scour;miga(ku);polish, scour
+汗;S5;6;2;Mizu, Sanzui, Shitamizu;kan;be sweaty;ase;perspiration
+看;S5;9;1;Me, Mehen;kan;see;-;-
+帯;S5;10;2;Haba, Kinben;tai;belt;o(biru), obi;belt, sash, girdle, band
+湿;S5;12;2;Mizu, Sanzui, Shitamizu;shitsu;dampness, moisture;shime(ru), shime(su);get damp, get moist, get wet. wet, moisten, dampen 
+蒸;S5;13;2;Kusakanmuri;joo;steam, heat up (with steam);mu(su), mu(reru), mu(rasu);steam, heat up (with steam)
+吹;S5;7;3;Kuchi, Kuchihen;sui;breathe, blow;fu(ku);breathe, blow
+燥;S5;17;2;Hi, Hihen, Renga;soo;dry up;-;-
+豊;S5;13;2;Mame;hoo;abundant, rich, fruitful;yuta(ka);abundant, rich, fruitful
+埋;S5;10;2;Tsuchi, Tsuchihen;mai;be filled up, be buried, be imbedded in ;u(meru), u(maru), u(moreru);be filled up, be buried, be imbedded in. bury, inter, fill up, pour in, plug up, inlay
+湾;S5;12;2;Mizu, Sanzui, Shitamizu;wan;gulf, bay, inlet;-;-
+浮;S5;10;3;Mizu, Sanzui, Shitamizu;fu;float, be floated, rise to the surface;u(ku), u(kareru), u(kabu), u(kaberu);float, be floated, rise to the surface
+積;S5;16;3;Nogi, Nogihen;seki;product (in math);tsu(mu), tsu(moru);pile up, stack, lay
+沈;S5;7;2;Mizu, Sanzui, Shitamizu;chin;aloes;shizu(mu), shizu(meru);sink, be submerged
+泥;S5;8;2;Mizu, Sanzui, Shitamizu;dei;mud, mire;doro;mud, mire, dirt, slush
+群;S5;13;2;Hitsuji;gun;group, crowd, gang, herd, swarm, flock;mu(reru), mu(re), [mura];crowd, flock, swarm
+根;S5;10;2;Ki, Kihen;kon;root (of a plant);ne;root
+針;S5;10;2;Kane, Kanehen;shin;needle;hari;needle, pin
+枝;S5;8;2;Ki, Kihen;shi;branch, bow, twig, limb;eda;branch, bow, twig, limb
+香;S5;9;2;Kaori;koo, [kyoo];incense, fragrance ;ka, kao(ri), kao(ru);smell, scent, odor
+耕;S5;10;2;Sukihen;koo;plow, cultivate;tagaya(su);plow, cultivate
+皮;S5;5;2;Kegawa;hi;skin;kawa;skin
+含;S5;7;2;Kuchi, Kuchihen;gan;hold in the mouth;fuku(mu), fuku(meru);hold in the mouth
+照;S5;13;2;Hi, Hihen, Renga;shoo;shine;te(ru), te(rasu), te(reru);shine. shine on, shed light on, illuminate
+周;S5;8;2;Kuchi, Kuchihen;shuu;circuit, lap, circumference, vicinity;mawa(ri);rotation
+極;S5;12;2;Ki, Kihen;kyoku, goku;end;kiwa(meru), kiwa(maru), kiwa(mi);terminate
+裏;S5;13;2;Koromo, Koromohen;ri;inside;ura;reverse, wrong side
+億;S5;15;2;Hito, Ninben, Hitoyane;oku;-;-;-
+兆;S5;6;2;Hitoashi;choo;sign, omen, indication, portent;kiza(su), kiza(shi);show a signs or symptoms of. signs, omen, symptoms
+逃;S5;9;3;Shinnyoo;too;flee, run away, escape;ni(geru), ni(gasu), noga(su), noga(reru);flee, run away, escape
+異;S5;11;1;Ta, Tahen;i;uncommonness, strangeness, queerness;koto(naru);differ, vary
+溶;S5;13;2;Mizu, Sanzui, Shitamizu;yoo;melt, dissolve, thaw;to(keru), to(kasu), to(ku);melt, dissolve, thaw. liquefy, melt
+恐;S5;10;3;Kokoro, Risshinben, Shitagokoro;kyoo;fear, dread, be afraid;oso(reru), oso(roshii);fear, dread, be afraid
+圧;S5;5;2;Tsuchi, Tsuchihen;atsu;press, oppress, dominate, overwhelm;-;-
+怖;S5;8;3;Kokoro, Risshinben, Shitagokoro;fu;fear, be frightened;kowa(i);fearful, frightful, terrible, weird 
+波;S5;8;2;Mizu, Sanzui, Shitamizu;ha;wave;nami;wave, billows
+零;S5;13;2;Ame, Amekanmuri;rei;zero, nothing, cipher;-;-
+亡;S5;3;3;Nabebuta;boo, [moo];my late, the late;na(-i);the late, the deceased
+展;S5;10;1;Shikabane;ten;expand;-;-
+捕;S5;10;3;Tehen;ho;catch, arrest, capture ;to(raeru), to(rawareru), to(ru), tsuka(maeru), tsuka(maru);catch, arrest, capture. be caught, be captured. be arrested
+宝;S5;8;2;Ukanmuri;hoo;treasure;takara;treasure, valuables
+棒;S5;12;2;Ki, Kihen;boo;stick, cane, rod, pole, stake, pile, club, bar;-;-
+輪;S5;15;2;Kuruma, Kurumahen;rin;ring, circle;wa;circle, ring, link, wheel, hoop, loop 
+爆;S5;19;2;Hi, Hihen, Renga;baku;burst open, pop, split;-;-
+因;S5;6;3;Kunigamae;in;cause, factor;yo(ru);depend on, be limited to
+捜;S5;10;2;Tehen;soo;search, look for, locate;saga(su);search, look for, locate
+識;S5;19;3;Gon, Gonben;shiki;know, discriminate, write;-;-
+居;S5;8;3;Shikabane;kyo;residence;i(ru);be, exist
+疑;S5;14;3;Hiki;gi;doubt;utaga(u);doubt
+罪;S5;13;3;Amigashira;zai;sin, crime, offense, guilt, blame, fault, misconduct ;tsumi;sin, crime, offense, guilt, blame, fault, misconduct 
+叫;S5;6;2;Kuchi, Kuchihen;kyoo;shout, exclaim, cry, yell, roar, howl;sake(bu);shout, exclaim, cry, yell, roar, howl
+況;S5;8;2;Mizu, Sanzui, Shitamizu;kyoo;still more, still less (neg.);-;-
+殺;S5;10;3;Rumata;satsu, [sai], [setsu];kill, murder, butcher;koro(su);kill, murder, butcher
+追;S5;9;3;Shinnyoo;tsui;drive away;o(u);drive away
+灰;S5;6;2;Hi, Hihen, Renga;kai;ashes;hai;ashes
+暴;S5;15;2;Nichi, Nichihen;boo, [baku];violence, force, outrage, cruelty;aba(ku), aba(reru);rage, rave, fret
+退;S5;9;3;Shinnyoo;tai;retreat, withdraw;shirizo(ku), shirizo(keru);retreat, withdraw
+勢;S5;13;2;Chikara;sei;energy;ikio(i);force, vigor, energy, spirit, life
+延;S5;8;2;Ennyoo;en;stretching;no(biru), no(beru), no(basu);extend, lengthen, stretch, spread
+争;S5;6;3;Ku;soo;dispute, argue;araso(u);dispute, argue, be at variance, compete
+敗;S5;11;3;Nobun;hai;defeat, reversal;yabu(reru);be defeated
+委;S5;8;2;Onna, Onnahen;i;entrust to, discard;yuda(neru);entrust to, devote (oneself) to
+訪;S5;11;3;Gon, Gonben;hoo;visit, call on;otozu(reru), tazu(neru);visit, call on. look up
+競;S5;20;2;Tatsu;kyoo, kei;emulate, compete with;kiso(u), se(ru);emulate, compete with
+依;S5;8;2;Hito, Ninben, Hitoyane;i, [e];depend on;-;-
+略;S5;11;2;Ta, Tahen;ryaku;abbreviation, abridgment;-;-
+与;S5;3;3;Ichi;yo;give, award, impart, provide, allot, cause (pain or damage) ;ata(eru);give, award, impart, provide, allot, cause (pain or damage) 
+炭;S5;9;2;Hi, Hihen, Renga;tan;charcoal;sumi;charcoal
+鉱;S5;13;2;Kane, Kanehen;koo;ore;-;-
+標;S5;15;1;Ki, Kihen;hyoo;signpost;-;-
+漁;S5;14;2;Mizu, Sanzui, Shitamizu;gyo, ryoo;fishing;-;-
+複;S5;14;2;Koromo, Koromohen;fuku;double, compound, composite, multiple;-;-
+制;S5;8;3;Katana, Rittoo;sei;system, organization;-;-
+純;S5;10;2;Ito, Itohen;jun;purity, innocence;-;-
+層;S5;14;2;Shikabane;soo;(social) class;-;-
+訓;S5;10;2;Gon, Gonben;kun;Japanese reading (of a character);-;-
+善;S5;12;1;Kuchi, Kuchihen;zen;good, goodness, right, virtue;yo(i);good, good-natured
+般;S5;10;2;Fune, Funehen;han;carry;-;-
+完;S5;7;3;Ukanmuri;kan;comletion, end;-;-
+貿;S5;12;2;Kai, Kaihen;boo;exchange;-;-
+貧;S5;11;3;Kai, Kaihen;hin, bin;poverty;mazu(shii);poor, destitute
+雇;S5;12;2;Furutori;ko;employ, hire;yato(u);employ, hire
+軒;S5;10;2;Kuruma, Kurumahen;ken;house counter;noki;eaves
+害;S5;10;3;Ukanmuri;gai;injury, harm, damage, mischief, interference;-;-
+被;S5;10;2;Koromo, Koromohen;hi;receiving;koomu(ru);get, receive, sustain (an injury), be subjected to (criticism)
+損;S5;13;2;Tehen;son;loss;soko(nau), soko(neru);harm, hurt, injure, damage, mar
+乱;S5;7;2;Otsu, Otsunyoo;ran;riot, rebellion, war;mida(reru), mida(su);put in disorder
+応;S5;7;1;Kokoro, Risshinben, Shitagokoro;oo;yes, all right;kota(eru);respond, answer
+律;S5;9;2;Gyooninben;ritsu, [richi];law, regulation;-;-
+賛;S5;15;3;Kai, Kaihen;san;praise;-;-
+軍;S5;9;2;Kuruma, Kurumahen;gun;army, force, troops;-;-
+兵;S5;7;2;Hachi;hei, hyoo;soldier, private;-;-
+郊;S5;9;2;Oozato;koo;suburbs;-;-
+党;S5;10;2;Shoo;too;party, faction, clique;-;-
+毒;S5;8;2;Haha, Hahanokan;doku;poison;-;-
+互;S5;4;3;Ni;go;mutually, reciprocally, together;taga(i);mutually, reciprocally, together
+刊;S5;5;2;Katana, Rittoo;kan;publishig;-;-
+却;S5;7;1;Fushizukuri, Warifu;kyaku;instead, on the contrary;-;-
+択;S5;7;1;Tehen;taku;choose, select;-;-
+炎;S5;8;1;Hi, Hihen, Renga;en;inflammation;honoo;flame, blaze
+往;S5;8;1;Gyooninben;oo;let go;-;-
+祉;S5;8;1;Shimesu, Shimesuhen;shi;happiness;-;-
+昇;S5;8;2;Nichi, Nichihen;shoo;rise, ascend, go up, climb;nobo(ru);rise, ascend, go up, climb
+典;S5;8;1;Hachi;ten;ceremony, celebration;-;-
+房;S5;8;1;To, Tokanmuri;boo;house, room;fusa;tuft, tassel, fringe
+肪;S5;8;1;Niku, Nikuzuki;boo;fat;-;-
+免;S5;8;1;Hitoashi;men;dismissal;manuka(reru);escape from, be rescued from, avoid, evade, avert, elude, be exempted, be relieved from pain, get rid of 
+為;S5;9;1;Hi, Hihen, Renga;i;change;-;-
+架;S5;9;1;Ki, Kihen;ka;frame, mount, stand, support;ka(keru), ka(karu);build (a bridge), hang
+枯;S5;9;2;Ki, Kihen;ko;wither, die, be dead;ka(reru), ka(rasu);wither, die, be dead
+荒;S5;9;2;Kusakanmuri;koo;rough, rude, wild, harsh, violent, gruff, fierce ;ara(i), a(reru), a(rasu);rough, rude, wild, harsh, violent, gruff, fierce. be ruined, become stormy
+削;S5;9;1;Katana, Rittoo;saku;plane, sharpen, whittle, pare, shave (leather);kezu(ru);plane, sharpen, whittle, pare, shave (leather)
+染;S5;9;1;Ki, Kihen;sen;be dyed, be imbued with, be tainted with;so(meru), so(maru), shi(miru), shi(mi);be dyed, be imbued with, be tainted with. dye, color, paint. soak in, permeate, infiltrate
+恩;S5;10;1;Kokoro, Risshinben, Shitagokoro;on;kindness, goodness, favor, mercy, blessing, benefit;-;-
+剤;S5;10;1;Katana, Rittoo;zai;medicine, drug, dose;-;-
+脂;S5;10;2;Niku, Nikuzuki;shi;fat, rouge;abura;fat, grease, tallow, blubber, lard, suet
+修;S5;10;1;Hito, Ninben, Hitoyane;shuu, [shu];govern oneself, conduct oneself well;osa(meru), osa(maru);govern oneself, conduct oneself well. study, complete (a course)
+症;S5;10;1;Yamaidare;shoo;illness;-;-
+振;S5;10;1;Tehen;shin;wave, wag, swing, shake;fu(ru), fu(ruu), fu(reru);wave, wag, swing, shake
+粋;S5;10;1;Kome, Komehen;sui;purity, essence, pith, cream, pick, elite, choice;iki;chic, style
+素;S5;10;1;Ito, Itohen;so, su;principle;-;-
+畜;S5;10;2;Ta, Tahen;chiku;domesticated fowl and animals;-;-
+納;S5;10;1;Ito, Itohen;noo, [naQ], [na], [nan], [too];obtain, reap;osa(meru), osa(maru);obtain, reap
+掛;S5;11;3;Tehen;-;-;ka(keru), ka(karu), kakari;hang on, be suspended from, be caught, be trapped
+郷;S5;11;1;Oozato;kyoo, goo;village, native place;-;-
+掘;S5;11;2;Tehen;kutsu;dig, delve;ho(ru);dig, delve
+掲;S5;11;1;Tehen;kei;put up, hang out, hoist, display;kaka(geru);put up, hang out, hoist, display
+渓;S5;11;1;Mizu, Sanzui, Shitamizu;kei;valley;-;-
+蛍;S5;11;1;Mushi, Mushihen;kei;firefly;hotaru;firefly
+採;S5;11;2;Tehen;sai;take, hold, seize, catch, capture;to(ru);take, hold, seize, catch, capture
+逮;S5;11;1;Shinnyoo;tai;chase;-;-
+粒;S5;11;2;Kome, Komehen;ryuu;grain, drop;tsubu;grain, drop
+偉;S5;12;3;Hito, Ninben, Hitoyane;i;greatness;era(i);great, famous, excellent, remarkable
+賀;S5;12;1;Kai, Kaihen;ga;congratulations, felicitations, compliments, joy of the occasion;-;-
+裁;S5;12;1;Koromo, Koromohen;sai;judge;ta(tsu), saba(ku);judge. cut out (a suit)
+粧;S5;12;0;Kome, Komehen;shoo;adorn (one's person);-;-
+証;S5;12;1;Gon, Gonben;shoo;proof, evidence;-;-
+診;S5;12;1;Gon, Gonben;shin;seeing;mi(ru);diagnose, examine
+酢;S5;12;1;Tori, Torihen;saku;vinegar;su;vinegar
+絶;S5;12;3;Ito, Itohen;zetsu;be beyond (words);ta(eru), ta(yasu), ta(tsu);become extinct, die out, discontinue, end, fail, peter out. exterminate, root out
+隊;S5;12;1;Kozatohen;tai;party, company, corps, squad, crew, band, posse, force, unit;-;-
+塔;S5;12;2;Tsuchi, Tsuchihen;too;tower, pagoda, steeple, obelisk, monument;-;-
+統;S5;12;1;Ito, Itohen;too;relationship;su(beru);control, supervise, govern
+鈍;S5;12;2;Kane, Kanehen;don;dullness, slowness, foolishness;nibu(i), nibu(ru);dull, slow
+惑;S6;12;1;Kokoro, Risshinben, Shitagokoro;waku;be perplexed, be in doubt, hesitate, vacillate, go astray, err;mado(u);be perplexed, be in doubt, hesitate, vacillate, go astray, err
+鉛;S6;13;1;Kane, Kanehen;en;lead(metal);namari;lead(metal)
+頑;S6;13;1;Oogai;gan;stubborn;-;-
+携;S6;13;1;Tehen;kei;carry (in the hand);tazusa(eru), tazusa(waru);carry (in the hand)
+継;S6;13;1;Ito, Itohen;kei;succeed to, inherit;tsu(gu);succeed to, inherit
+源;S6;13;1;Mizu, Sanzui, Shitamizu;gen;source, origin;minamoto;source, origin
+傷;S6;13;1;Hito, Ninben, Hitoyane;shoo;wound, injury;kizu, ita(mu), ita(meru);wound, injury, hurt
+睡;S6;13;1;Me, Mehen;sui;sleep, die;-;-
+腸;S6;13;1;Niku, Nikuzuki;choo;intestines, bowels, entrails;-;-
+塗;S6;13;2;Tsuchi, Tsuchihen;to;paint;nu(ru);paint
+漠;S6;13;1;Mizu, Sanzui, Shitamizu;baku;vague, obscure;-;-
+障;S6;14;1;Kozatohen;shoo;hinder, interfere with;sawa(ru);hinder, interfere with
+憎;S6;14;2;Kokoro, Risshinben, Shitagokoro;zoo;hate, detest;niku(mu), niku(i), niku(rashii), niku(shimi);hate, detest. hateful, abominable
+態;S6;14;1;Kokoro, Risshinben, Shitagokoro;tai;condition, figure, appearance;-;-
+滴;S6;14;2;Mizu, Sanzui, Shitamizu;teki;drop;shizuku, shitata(ru);drop. drip, trickle
+銅;S6;14;2;Kane, Kanehen;doo;copper;-;-
+領;S6;14;2;Oogai;ryoo;dominion, territory possession, fief;-;-
+鋭;S6;15;2;Kane, Kanehen;ei;sharpness;surudo(i);pointed, sharp
+儀;S6;15;1;Hito, Ninben, Hitoyane;gi;rule;-;-
+権;S6;15;3;Ki, Kihen;ken, [gon];authority, power, rights, concession;-;-
+膚;S6;15;2;Niku, Nikuzuki;fu;skin, body;-;-
+避;S6;16;1;Shinnyoo;hi;avoid, avert, ward off, keep aloof from, stay away from;sa(keru);avoid, avert, ward off, keep aloof from, stay away from
+厳;S6;17;1;Tsukanmuri;gen, [gon];strictness, severity;ogoso(ka), kibi(shii);austere, majestic, severe, strict
+縮;S6;17;1;Ito, Itohen;shuku;shrink, contract, shrivel, wrinkle;chiji(mu), chiji(maru), chiji(meru), chiji(reru), chiji(rasu);shrink, contract, shrivel, wrinkle. be shortened, be contracted, be reduced, be abridged
+敵;S6;15;1;Nobun;teki;enemy, foe, opponent;kataki;enemy
+織;S6;18;1;Ito, Itohen;shoku, shiki;weaveing;o(ru);weave
+礎;S6;18;1;Ishi, Ishihen;so;foundation stone, cornerstone;ishizue;foundation stone, cornerstone
+己;S6;3;1;Onore;ko, ki;sixth;onore;oneself, myself, yourself
+援;S6;12;1;Tehen;en;help, save;-;-
+企;S6;6;1;Hito, Ninben, Hitoyane;ki;plan, plot, propose, design, intend, contemplate;kuwada(teru);plan, plot, propose, design, intend, contemplate
+貴;S6;12;1;Kai, Kaihen;ki;value, prize, esteem;tatto(i), tooto(i), tatto(bu), tooto(bu);value, prize, esteem
+紀;S6;9;1;Ito, Itohen;ki;account, narrative, history, annals, geological period;-;-
+激;S6;16;1;Mizu, Sanzui, Shitamizu;geki;get excited, be agitated, be enraged, be exasperated, chafe;hage(shii);violent, vehement, furious, severe, acute, intense, extreme, passionate, heated, stormy (applause)
+功;S6;5;1;Chikara;koo, [ku];merits, meritorious deeds;-;-
+購;S6;17;1;Kai, Kaihen;koo;buy;-;-
+盛;S6;11;1;Sara;sei, [joo];prosper, flourish;mo(ru), saka(ru), saka(n);serve, fill
+占;S6;5;2;Uranai;sen;occupy, hold, have, get, take (a seat);shi(meru), urana(u);occupy, hold, have, get, take (a seat). divine, forecast, augur 
+創;S6;12;1;Katana, Rittoo;soo;wound, injury, hurt;tsuku(ru);-
+趣;S6;15;1;Hashiru, Soonyoo;shu;proceed to;omomuki;import, meaning, contents. tenor, gist
+乏;S6;4;1;No;boo;meager, scarce, limited;tobo(shii);meager, scarce, limited
+派;S6;9;1;Mizu, Sanzui, Shitamizu;ha;group, party, clique;-;-
+距;S6;12;1;Ashi, Ashihen;kyo;be distant;-;-
+併;S6;8;1;Hito, Ninben, Hitoyane;hei;get together, unite ;awa(seru);get together, unite 
+双;S6;4;2;Mata;soo;a pair;futa;-
+興;S6;16;1;Usu;koo, kyoo;interest, entertainment, pleasure ;oko(ru), oko(su);rise, flourish. revive, retrieve (fortunes), raise up 
+挙;S6;10;1;Te;kyo;plan, project;a(geru), a(garu);celebrate (a ceremony)
+憲;S6;16;1;Kokoro, Risshinben, Shitagokoro;ken;law;-;-
+護;S6;20;1;Gon, Gonben;go;defend, protect;-;-
+災;S6;7;1;Hi, Hihen, Renga;sai;calamity, misfortune, woe, evil, curse;wazawa(i);calamity, misfortune, woe, evil, curse
+需;S6;14;1;Ame, Amekanmuri;ju;request, need;-;-
+渉;S6;11;1;Mizu, Sanzui, Shitamizu;shoo;cross, ford, ferry;-;-
+亜;S6;7;1;Ni;a;rank next, come after, Asia, sub-, -ous (in acids);-;-
+仰;S6;6;1;Hito, Ninben, Hitoyane;gyoo, [koo];look up;ao(gu), oo(se);look up
+飽;S6;13;1;Shoku, Shokuhen;hoo;get tired of, lose interest in, have enough ;a(kiru), a(kasu);get tired of, lose interest in, have enough. satiate, surfeit
+握;S6;12;1;Tehen;aku;grasp, hold;nigi(ru);grasp, hold
+鮮;S6;17;1;Uo, Uohen;sen;Korea;aza(yaka);vivid, clear, brilliant, fresh, graceful, splendid, beautiful
+焦;S6;12;1;Hi, Hihen, Renga;shoo;burn, scorch, singe, char;ko(geru), ko(gasu), ko(gareru), ase(ru);burn, scorch, singe, char. pine for. yearn for
+扱;S6;6;1;Tehen;-;-;atsuka(u);treat
+跡;S6;13;2;Ashi, Ashihen;seki;mark, print, impression;ato;mark, print, impression
+穴;S6;5;1;Ana, Anakanmuri;ketsu;hole, aperture, slit;ana;hole, aperture, slit
+泡;S6;8;1;Mizu, Sanzui, Shitamizu;hoo;bubble, foam, froth, scum, suds ;awa;bubble, foam, froth, scum, suds 
+井;S6;4;1;Ni;sei, [shoo];well;i;well
+緯;S6;16;1;Ito, Itohen;i;woof;-;-
+維;S6;14;1;Ito, Itohen;i;tie, rope;-;-
+遺;S6;15;1;Shinnyoo;i, [yui];leave behind;-;-
+致;S6;10;1;Itaru;chi;do;ita(su);do
+至;S6;6;1;Itaru;shi;go, proceed, come;ita(ru);go, proceed, come
+挑;S6;9;1;Tehen;choo;challenge;ido(mu);challenge
+稲;S6;14;1;Nogi, Nogihen;too;rice plant;ine, [ina];rice plant
+促;S6;9;1;Hito, Ninben, Hitoyane;soku;urge, press, demand;unaga(su);urge, press, demand
+梅;S6;10;1;Ki, Kihen;bai;plum, plum tree;ume;plum, plum tree
+描;S6;11;1;Tehen;byoo;write, compose;ega(ku), ka(ku);write, compose
+益;S6;10;1;Sara;eki, [yaku];gain, benefit, profit, use, advantage;-;-
+沿;S6;8;1;Mizu, Sanzui, Shitamizu;en;following along;so(u);run along
+皇;S6;9;1;Shiro;koo, oo;emperor;-;-
+沖;S6;7;1;Mizu, Sanzui, Shitamizu;chuu;offing, open sea;oki;offing, open sea
+叔;S6;8;1;Mata;shuku;uncle;-;-
+伯;S6;7;1;Hito, Ninben, Hitoyane;haku;count;-;-
+雄;S6;12;1;Furutori;yuu;male;o, osu;male
+陥;S6;10;1;Kozatohen;kan;fall into, get into, slide into, lapse into;ochii(ru), otoshii(reru);fall into, get into, slide into, lapse into
+華;S6;10;1;Kusakanmuri;ka, [ke];flower, petal, shining, luster, China;hana;flower
+我;S6;7;1;Hokogamae, Hokozukuri;ga;ego, self, selfishness, egotism;ware, wa;I, oneself, self, ego
+悔;S6;9;1;Kokoro, Risshinben, Shitagokoro;kai;repend, regret;ku(iru), ku(yamu), kuya(shii);repend, regret
+怪;S6;8;1;Kokoro, Risshinben, Shitagokoro;kai;mystery;aya(shii), aya(shimu);doubt
+涯;S6;11;1;Mizu, Sanzui, Shitamizu;gai;shore;-;-
+鏡;S6;19;1;Kane, Kanehen;kyoo;mirror;kagami;mirror
+核;S6;10;1;Ki, Kihen;kaku;nucleus, core, seed, kernel;-;-
+飾;S6;13;1;Shoku, Shokuhen;shoku;ornament, decorate, adorn, embellish;kaza(ru);ornament, decorate, adorn, embellish
+嫁;S6;13;1;Onna, Onnahen;ka;marry (a man);yome, totsu(gu);marry off
+兼;S6;10;1;Hachi;ken;and, in addition, concurrently;ka(neru);combine with, serve as both
+雷;S6;13;1;Ame, Amekanmuri;rai;thunder;kaminari;thunder
+勧;S6;13;1;Chikara;kan;recommend, advise, encourage;susu(meru);recommend, advise, encourage
+緩;S6;15;1;Ito, Itohen;kan;loosen, lessen;yuru(i), yuru(yaka), yuru(mu), yuru(meru) ;loose, slack
+眼;S6;11;1;Me, Mehen;gan, [gen];eye;manako;eye
+既;S6;10;1;Munyoo;ki;previously;sude(ni);previously
+宜;S6;8;1;Ukanmuri;gi;good, good-natured;-;-
+聴;S6;17;1;Mimi, Mimihen;choo;careful inquiry;ki(ku);hear, listen to, learn of
+絹;S6;13;1;Ito, Itohen;ken;silk, silk thread;kinu;silk, silk thread
+宮;S6;10;1;Ukanmuri;kyuu, guu, [ku];constellations (of the zodiac);miya;Shinto shrine
+驚;S6;22;1;Uma, Umahen;kyoo;be surprised;odoro(ku), odoro(kasu);be surprised
+筋;S6;12;1;Take, Takekanmuri;kin;muscle, sinew, tendon;suji;muscle
+句;S6;5;1;Kuchi, Kuchihen;ku;phrase, clause, sentence, passage, paragraph;-;-
+臭;S6;9;1;Mizukara;shuu;odor, savor, fragrance ;kusa(i), nio(u);ill-smelling
+懸;S6;20;1;Kokoro, Risshinben, Shitagokoro;ken, [ke];hang;ka(keru), ka(karu);hang
+継;S6;13;1;Ito, Itohen;kei;succeed to, inherit;tsu(gu);succeed to, inherit
+刑;S6;6;1;Katana, Rittoo;kei;penalty, sentence, punishment;-;-
+謙;S6;17;1;Gon, Gonben;ken;humble oneself, condescend, be modest;-;-
+倹;S6;10;1;Hito, Ninben, Hitoyane;ken;economy;-;-
+拠;S6;8;1;Tehen;kyo, ko;be based on, follow;-;-
+項;S6;12;1;Oogai;koo;clause, paragraph;-;-
+雌;S6;14;1;Furutori;shi;female;me, mesu;female
+盟;S6;13;1;Sara;mei;oath;-;-
+喪;S6;12;1;Kuchi, Kuchihen;soo;mourning;mo;mourning
+黙;S6;15;1;Kuro;moku;keeping silence;dama(ru);become silent, stop speaking, say nothing 
+誠;S6;13;1;Gon, Gonben;sei;admonish, warn;makoto;sincerity, honesty, fidelity
+浜;S6;10;1;Mizu, Sanzui, Shitamizu;hin;beach, seashore;hama;beach, seashore
+滅;S6;13;1;Mizu, Sanzui, Shitamizu;metsu;be ruined;horo(biru), horo(bosu);be ruined
+翻;S6;18;1;Hane;hon;turn over, wave, flutter ;hirugae(ru), hirugae(su);turn over, wave, flutter. change (one's mind)
+盆;S6;9;1;Sara;bon;Lantern Festival;-;-
+墓;S6;13;1;Tsuchi, Tsuchihen;bo;grave, tomb;haka;grave, tomb
+旗;S6;14;1;Hoo, Hoohen;ki;flag, banner, standard, ensign, pennant, streamer;hata;flag, banner, standard, ensign, pennant, streamer
+載;S6;13;1;Kuruma, Kurumahen;sai;ride, board, mount;no(seru), no(ru);ride, board, mount
+俳;S6;10;1;Hito, Ninben, Hitoyane;hai;actor;-;-
+励;S6;7;1;Chikara;rei;be diligent;hage(mu), hage(masu);be diligent. encourage, inspire
+懐;S6;16;1;Kokoro, Risshinben, Shitagokoro;kai;heart, feeling;futokoro, natsu(kashii), natsu(kashimu), natsu(ku), natsu(keru);bosom, breast, heart
+縄;S6;15;1;Ito, Itohen;joo;rope, cord;nawa;rope, cord
+哲;S6;10;1;Kuchi, Kuchihen;tetsu;clear;-;-
+訂;S6;9;1;Gon, Gonben;tei;correct;-;-
+帝;S6;9;1;Haba, Kinben;tei;emperor;-;-
+丁;S6;2;1;Ichi;tei, choo;fourth;-;-
+露;S6;21;1;Ame, Amekanmuri;ro, [roo];dew;tsuyu;dew
+縦;S6;16;1;Ito, Itohen;juu;length, height;tate;length, height, warp
+禅;S6;13;1;Shimesu, Shimesuhen;zen;silent meditation;-;-
+滞;S6;13;1;Mizu, Sanzui, Shitamizu;tai;stopping;todokoo(ru);stagnate
+姿;S6;9;1;Onna, Onnahen;shi;figure, form, shape;sugata;figure, form, shape
+詩;S6;13;1;Gon, Gonben;shi;poem, poetry;-;-
+策;S6;12;1;Take, Takekanmuri;saku;plan, scheme, policy;-;-
+施;S6;9;1;Hoo, Hoohen;shi, se;give alms;hodoko(su);give alms
+祉;S6;8;1;Shimesu, Shimesuhen;shi;happiness;-;-
+従;S6;10;1;Gyooninben;juu, [shoo], [ju];secondary, incidental, subordinate, accessory, junior;shitaga(u), shitaga(eru);obey, submit to, comply with, observe (a law)
+騒;S6;18;1;Uma, Umahen;soo;make a noise, be boisterous, shout, clamor;sawa(gu);make a noise, be boisterous, shout, clamor
+充;S6;6;1;Hitoashi;juu;fill;a(teru);apply, place, put, hit (the mark)
+紫;S6;12;1;Ito, Itohen;shi;purple, violet;murasaki;purple, violet
+舌;S6;6;1;Shita;zetsu;tongue;shita;tongue
+樹;S6;16;1;Ki, Kihen;ju;tree, wood;-;-
+宗;S6;8;1;Ukanmuri;shuu, soo;religion, sect, denomination;-;-
+渋;S6;11;1;Mizu, Sanzui, Shitamizu;juu;hesitate, be reluctant;shibu, shibu(i), shibu(ru);hesitate, be reluctant
+網;S6;14;1;Ito, Itohen;moo;net, network;ami;net, netting
+淡;S6;11;1;Mizu, Sanzui, Shitamizu;tan;light, faint, pale, fleeting;awa(i);light, faint, pale, fleeting
+慌;S6;12;0;Kokoro, Risshinben, Shitagokoro;koo;be confused, lose one's head, be hurried, be hasty;awa(teru), awa(tadashii);be confused, lose one's head, be hurried, be hasty, busy, bustling, confused
+怪;S6;8;1;Kokoro, Risshinben, Shitagokoro;kai;mystery;aya(shii), aya(shimu);doubt
+威;S6;9;1;Onna, Onnahen;i;dignity, majesty, authority;-;-
+偽;S6;11;1;Hito, Ninben, Hitoyane;gi;lie, falsity;itsuwa(ru), nise;lie, falsity
+秀;S6;7;1;Nogi, Nogihen;shuu;excellence;hii(deru);surpass, excel, tower above, rise to eminence 
+哀;S6;9;1;Kuchi, Kuchihen;ai;pity, have mercy on, sympathize with;awa(re), awa(remu);pity, have mercy on, sympathize with, grief, sorrow, misery
+惜;S6;11;1;Kokoro, Risshinben, Shitagokoro;seki;be sparing of;o(shii), o(shimu);be sparing of
+票;S6;11;1;Shimesu, Shimesuhen;hyoo;label;-;-
+拒;S6;8;1;Tehen;kyo;refuse, reject, decline;koba(mu);refuse, reject, decline
+斜;S6;11;1;Tomasu;sha;slanting, oblique;nana(me);slanting, diagonal, oblique, askew
+還;S6;16;1;Shinnyoo;kan;return;-;-
+患;S6;11;2;Kokoro, Risshinben, Shitagokoro;kan;disease;wazura(u);be ill, suffer from
+劣;S6;6;1;Chikara;retsu;be inferior to, be worse than;oto(ru);be inferior to, be worse than
+赴;S6;9;1;Hashiru, Soonyoo;fu;proceed to;omomu(ku);proceed to
+緊;S6;15;1;Ito, Itohen;kin;hard, solid;-;-
+穏;S6;16;1;Nogi, Nogihen;on;calm, quiet, peace;oda(yaka);calm, quiet, peace
+罰;S6;14;1;Amigashira;batsu, bachi;punishment, penalty;-;-
+潔;S6;15;1;Mizu, Sanzui, Shitamizu;ketsu;pure, clean, righteous;isagiyo(i);pure, clean, righteous
+丘;S6;5;1;Ichi;kyuu;hill, knoll, rising ground;oka;hill, knoll, rising ground
+輝;S6;15;1;Kuruma, Kurumahen;ki;shine, sparkle, gleam, twinkle;kagaya(ku);shine, sparkle, gleam, twinkle
+汽;S6;7;1;Mizu, Sanzui, Shitamizu;ki;vapor, steam;-;-
+傑;S6;13;1;Hito, Ninben, Hitoyane;ketsu;excellent;-;-
+飢;S6;10;1;Shoku, Shokuhen;ki;be hungry, starve;u(eru);be hungry, starve
+貫;S6;11;1;Kai, Kaihen;kan;8.3/1 pounds;tsuranu(ku);pierce, penetrate, perforate
+範;S6;15;1;Take, Takekanmuri;han;example, model, pattern;-;-
+孤;S6;9;1;Ko, Kohen;ko;orphan;-;-
+犠;S6;17;1;Ushi, Ushihen;gi;sacrifice;-;-
+牲;S6;9;1;Ushi, Ushihen;sei;sacrifice, offering, gift;-;-
+獲;S6;16;1;Inu, Kemonohen;kaku;get, acquire, find, earn, win, gain, receive;e(ru);get, acquire, find, earn, win, gain, receive
+訴;S6;12;1;Gon, Gonben;so;sue;utta(eru);sue
+訟;S6;11;1;Gon, Gonben;shoo;accuse;-;-
+庶;S6;11;1;Madare;sho;all;-;-
+娯;S6;10;1;Onna, Onnahen;go;pleasure;-;-
+鈴;S6;13;1;Kane, Kanehen;rei, rin;bell, hand bell, buzzer;suzu;bell
+肺;S6;9;1;Niku, Nikuzuki;hai;lung;-;-
+堅;S6;12;1;Tsuchi, Tsuchihen;ken;hard, solid;kata(i);hard, solid
+魂;S6;14;1;Oni, Kinyoo;kon;soul, spirit;tamashii;soul, spirit
+攻;S6;7;1;Nobun;koo;attack, assault;se(meru);attack, offensive
+撃;S6;15;1;Te;geki;attack, defeat, destroy, conquer;u(tsu);strike, hit, beat, knock, slap, punch, thrash, smite
+腐;S6;14;1;Niku, Nikuzuki;fu;rot, decay;kusa(ru), kusa(reru), kusa(rasu);rot, decay
+滑;S6;13;1;Mizu, Sanzui, Shitamizu;katsu, kotsu;slide, glide, skate;sube(ru), name(raka);slide, glide, skate
