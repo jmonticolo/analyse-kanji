@@ -99,7 +99,7 @@ def get_levels():
 
 def get_info_names():
     kanji, level, info = range(3)
-    file_content = open(document["base_choice"].value).read()
+    file_content = open(f'bases/{document["base_choice"].value}').read()
     contents = file_content.split("\n")
     info_names = [i.strip() for i in contents[0].split(";") if len(i) > 0]
     return info_names[info:]
